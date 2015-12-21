@@ -1,0 +1,2235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk" />
+<title>重症肌无力_全部问题_第11页_寻医问药网_xywy.com</title>
+<meta name="keywords" content="有问必答，健康问答">
+<meta name="description" content="闻康网寻医问药社区有问必答栏目是全国最大最权威的健康生活在线有问必答平台" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://3g.club.xywy.com/small_679.htm"><meta name="baidu-site-verification" content="9bfcbbe87cd0c5bae0d3a56cba4fcb4a"/>
+<link rel="stylesheet" type="text/css" href="http://pub1.wkimg.com/common_login/css/common_login_v2.css" />
+<link href="http://c1.wkimg.com/web/kswd_ks.css"  type="text/css" rel="stylesheet"/>
+<script type="text/javascript" src="http://stat.xywy.com/head.js"></script>
+<script src="http://j1.wkimg.com/web/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://ip.xywy.com/get"></script>
+<script type="text/javascript" src="http://a.xywy.com/stat.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="bookmark" type="image/x-icon" href="/favicon.ico">
+<script>
+document.domain="xywy.com";
+var subject_pid = 272;
+var subject = 679;
+var deptid = 679;
+</script>
+</head>
+<body style="background:url(http://i1.wkimg.com/web/new_login_rp.gif) repeat-x;">
+
+<!-- login header -->
+<div style="background:#fff;">  
+<div class="clearfix w980 bc Header_top">
+    <div class="fl HeadLe">
+        <a class="fl dib Club_Logo" target="_blank" title="寻医问药" href="http://www.xywy.com"><img width="143" height="46" src="http://static.img.xywy.com/club/familyDoctor/club_Logo.jpg"></a>
+        <h4 class="fl fwei fn">有问必答</h4>
+    </div>
+	<div class="fr public-hd-nav" id="common-hd-nav">
+	<style type="text/css">
+	body,ul,li,a,div{margin:0;padding:0;}
+	ul,li{list-style:none;}
+	a{ text-decoration:none; outline: none; }
+	.common-hd-nav a{display:block;height:38px;font-size:12px;}
+	.clearfix:after{ visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }.clearfix{*zoom:1;}
+	.common-hd-nav li{width:125px;float:left;dispaly:inline;margin:24px 0 0 15px;position:relative;text-indent:0;background:url(http://static.img.xywy.com/channel-public/images/nav_ico_new_v2.gif) no-repeat;}
+	.common-hd-nav .common-hd-health-nav{background-position:0 0;}
+	.common-hd-nav .common-hd-user-nav{background-position:0 -44px;}
+	.common-hd-nav .common-hd-drug-nav{background-position:0 -88px;}
+	.common-hd-nav .common-hd-doctor-nav{background-position:0 -132px;}
+	.common-hd-health-nav a,.common-hd-user-nav a,.common-hd-drug-nav a,.common-hd-doctor-nav a{text-indent:-9999px;background:url(http://static.img.xywy.com/channel-public/images/nav_arrow_down.gif) 110px 17px no-repeat;}
+	.common-hd-health-nav .common-hd-arrow-up,.common-hd-user-nav .common-hd-arrow-up,.common-hd-drug-nav .common-hd-arrow-up,.common-hd-doctor-nav .common-hd-arrow-up{background:url(http://static.img.xywy.com/channel-public/images/nav_arrow_up.gif) 110px 17px no-repeat;}
+	.common-hd-drop-down{display:none;width:99px;position:absolute;top:-8px;left:24px;border:1px solid #28b4c3;border-bottom-left-radius:5px;border-bottom-right-radius:5px;background:#fff;box-shadow:0 2px 5px 2px rgba(40,180,195,.2)}
+	.common-hd-nav span{width:38px;height:38px;position:absolute;left:-1px;top:-39px;display:block;background:url(http://static.img.xywy.com/channel-public/images/item_nav_logo_v2.gif) no-repeat;z-index:9999;}
+	.common-hd-drop-down a{display:block;height:24px;line-height:24px;padding-left:20px;color:#666;text-indent:0;}
+	.common-hd-drop-down a:hover{color:#fff;text-decoration:none;background:#28b4c3;}
+	.common-hd-health-service-menu,.common-hd-user-service-menu,.common-hd-drug-service-menu,.common-hd-doctor-service-menu{position:absolute;}
+	.common-hd-health-service-menu span{background-position:0 1px;}
+	.common-hd-user-service-menu span{background-position:0 -47px;}
+	.common-hd-drug-service-menu span{background-position:0 -95px;}
+	.common-hd-doctor-service-menu span{background-position:0 -144px;}
+	</style>
+	<ul class="common-hd-nav fr">
+	<li class="common-hd-health-nav">
+	<a href="javascript:void(0)" target="_self">健康知识</a>
+	<div class="common-hd-health-service-menu">
+	<span></span>
+	<div class="common-hd-drop-down" style="display: none;">
+	<a target="_blank" href="http://jib.xywy.com/">疾病百科</a>
+	<a target="_blank" href="http://zzk.xywy.com/">症状百科</a>
+	<a target="_blank" href="http://jck.xywy.com/">检查项目</a>
+	<a target="_blank" href="http://zx.xywy.com/mrzx/">整形项目</a>
+	<a target="_blank" href="http://www.xywy.com/shoushu">手术项目</a>
+	<a target="_blank" href="http://www.xywy.com/muying">母婴百科</a>
+	<a target="_blank" href="http://www.xywy.com/caipu/">食疗养生</a>
+	<a target="_blank" href="http://www.xywy.com/zixun/">健康资讯</a>
+	</div>
+	</div>
+	</li>
+	<li class="common-hd-user-nav">
+	<a href="javascript:void(0)" target="_self">用户服务</a>
+	<div class="common-hd-user-service-menu">
+	<span></span>
+	<div class="common-hd-drop-down" style="display: none;">
+	<a target="_blank" href="http://club.xywy.com">有问必答</a>
+	<a target="_blank" href="http://z.xywy.com/jiahaoshouye.htm">挂号服务</a>
+	<a target="_blank" href="http://club.xywy.com/familyDoctor/">家庭医生</a>
+	<a target="_blank" href="http://z.xywy.com/dhys.htm">电话咨询</a>
+	<a target="_blank" href="http://home.xywy.com/">病友圈</a>
+	<a target="_blank" href="http://club.xywy.com/healthShare">健康经验</a>
+	<a target="_blank" href="http://www.xywy.com/fangtan/">专家访谈</a>
+	<a target="_blank" href="http://club.xywy.com/salon/">线下活动</a>
+	</div>
+	</div>
+	</li>
+	<li class="common-hd-drug-nav">
+	<a href="javascript:void(0)" target="_self">药品导航</a>
+	<div class="common-hd-drug-service-menu">
+	<span></span>
+	<div class="common-hd-drop-down" style="display: none;">
+	<a href="http://yao.xywy.com/" target="_blank">药品网</a>
+	<a href="http://wksc.xywy.com/" target="_blank">闻康商城</a>
+	</div>
+	</div>
+	</li>
+	<li class="common-hd-doctor-nav">
+	<a href="javascript:void(0)" target="_self">医生服务</a>
+	<div class="common-hd-doctor-service-menu">
+	<span></span>
+	<div class="common-hd-drop-down" style="display: none;">
+	<a href="http://club.xywy.com/doctorhome/" onmousedown="__sendClickOdm('pc_ucenter', this, ':rightnav+serviceplatform')" target="_blank">医平台首页</a>
+	<a href="http://club.xywy.com/zixun/" onmousedown="__sendClickOdm('pc_ucenter', this, ':rightnav+information')" target="_blank">医学资讯</a>
+	<a href="http://news.xywy.com/" onmousedown="__sendClickOdm('pc_ucenter', this, ':rightnav+original')" target="_blank">原创热点</a>
+	<a href="http://club.xywy.com/doctorShare/" onmousedown="__sendClickOdm('pc_ucenter', this, ':rightnav+share')" target="_blank">交流分享</a>
+	<a href="http://club.xywy.com/zhaopin/" onmousedown="__sendClickOdm('pc_ucenter', this, ':rightnav+joinus')" target="_blank">招聘中心</a>
+	<a href="http://club.xywy.com/shouce/" onmousedown="__sendClickOdm('pc_ucenter', this, ':rightnav+manual')" target="_blank">知识手册</a>
+	<a href="http://club.xywy.com/doctorstory.html" onmousedown="__sendClickOdm('pc_ucenter', this, ':rightnav+doctorlife')" target="_blank">中国医生一天</a>                        
+	<a href="http://club.xywy.com/zhuanti/doctor.html#doctor" target="_blank">服务介绍</a>
+	</div>
+	</div>
+	</li>
+	</ul>
+	<script>
+	$('#common-hd-nav').find('li').bind({
+	mouseenter: function(){
+	$(this).children('a').addClass('common-hd-arrow-up').end().find('.common-hd-drop-down').show();
+	},
+	mouseleave: function(){
+	$(this).children('a').removeClass('common-hd-arrow-up').end().find('.common-hd-drop-down').hide();
+	}
+	});
+	</script>
+	</div>
+</div>
+</div>
+<!-- banner top -->
+<div class="hd_navbg">
+	<div class="w980 bc clearfix">
+    	<ul class="hd_nav f16 fl">
+            <li class="w60"><a target="_blank" href="http://club.xywy.com/">首页</a></li>
+            <li class=""><a href="http://club.xywy.com/kswd.htm" target="_blank">科室分类</a></li>
+            <li class="on"><a href="http://club.xywy.com/kswd_list.htm" target="_blank">问题大全</a></li>
+            <li><a href="http://club.xywy.com/juhe" target="_blank">疾病问答</a></li>
+            <li><a href="http://club.xywy.com/top.htm" target="_blank">榜上有名</a></li>
+            <li class="hd_family"><i class="Homehot db pa"></i><a target="_blank" href="http://club.xywy.com/familyDoctor/" onmousedown="recordClickVisit('clickhome_doctor_navigation&p=1')">家庭医生</a>
+            		<div class="HomeNav_list none">
+            		<a href="http://club.xywy.com/familyDoctor/" target="_blank" onmousedown="recordClickVisit('clickhome_doctor_navigation&p=1')">家庭医生首页</a>
+                    <a href="http://club.xywy.com/familyDoctor/keshi" target="_blank" onmousedown="recordClickVisit('clickhome_doctor_navigation&p=2')">按科室找医生</a>
+                    <a href="http://club.xywy.com/familyDoctor/jib" target="_blank" onmousedown="recordClickVisit('clickhome_doctor_navigation&p=3')">按疾病找医生</a>
+                    <a href="/familyDoctor/tops" target="_blank" onmousedown="recordClickVisit('clickhome_doctor_navigation&p=4')">TOP排行榜</a>
+                    <a href="/familyDoctor/introduction" target="_blank" onmousedown="recordClickVisit('clickhome_doctor_navigation&p=5')">服务介绍</a>
+                    <!--<a href="http://club.xywy.com/familyDoctor/health" target="_blank" onmousedown="recordClickVisit('clickhome_doctor_navigation&p=6')">健康管理服务</a>-->
+					</div></li>
+        </ul>
+        <a href="http://zhao.xywy.com/comse.php?keyword=" class="db fr hd_SeaSous f14" target="_blank" onmouseover="aa(this);">搜索答案</a>
+        <div class="fr f12">
+        <form method="get" action="http://club.xywy.com/askquestion.php?" target="_blank" class="fl" name="q" onsubmit="return unicodeForm(this);">
+        <div class="fl"><input type="text" name="asktitle" id="searchKeywords" value="提交您的问题，专业医生10分钟内为您解答" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(trim(this.value)===''){this.value=this.defaultValue;}" class="hd_Seaput fl f12"></div>
+        <input name="fromurl" type="hidden" value="head" />
+        <a class="hd_SeaBtns dib fl oh"><input type="submit" class="f14 cp" value="免费提问"></a>
+        </form>
+        </div>
+        <script type="text/javascript">
+		$('.hd_family').mouseenter(function(){
+			$('.HomeNav_list').show();
+			$(this).addClass('hov');
+		}).mouseleave(function(){
+			$('.HomeNav_list').hide();
+			$(this).removeClass('hov');
+		})
+		$('.j-nav').mouseenter(function(){
+			$(this).children('.j-nav-menu').show();	
+		}).mouseleave(function(){
+			$(this).children('.j-nav-menu').hide();
+		});
+		function aa(obj){
+			var keyword=document.getElementById('searchKeywords').value;
+			if(keyword=='提交您的问题，专业医生10分钟内为您解答' || keyword==""){
+				obj.href="http://zhao.xywy.com";
+			}else{
+				obj.href="http://zhao.xywy.com/comse.php?keyword="+encodeURIComponent(keyword)+"&ie=utf-8";
+			}
+		}
+		</script>
+    </div>
+</div>
+
+<div class="clearfix w980 bc">
+	<script src="http://a.xywy.com/depart.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://static.front.xywy.com/zhixing/js/club_top.js "></script>
+</div>
+
+<script type="text/javascript" src="http://stat.xywy.com/odm.js"></script>
+<div class="w980 bc clearfix">
+<p class="pt5 pb5 lh180 f12 blue-a"><a name="h" href="http://club.xywy.com/">有问必答</a> &gt; <a target="_blank" href="/kswd_list.htm">问题大全</a>
+&gt; <a target="_blank" href="/big_272.htm">内科</a>
+&gt; <a target="_blank" href="/small_679.htm">重症肌无力</a>
+</p>
+<div class="conle fl mr10">
+<div class="erjis" style="border-top:2px solid #0699b5;">
+		<table class="depart erjikes f12 fb btnw-a clearfix" style="border-top:0px;" width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr height="49" valign="middle">
+			<td class="libg" dir="272"><a href="/big_272.htm">内科</a></td>
+            <td class="libg" dir="297"><a href="/big_297.htm">外科</a></td>
+            <td class="libg" dir="287"><a href="/big_287.htm">妇产科</a></td>
+			<td class="libg" dir="306"><a href="/big_306.htm">皮肤科</a></td>
+            <td class="libg" dir="766"><a  href="/big_766.htm">性病科</a></td>
+            <td class="libg" dir="332"><a href="/big_332.htm">儿科</a></td> 
+            <td class="libg" dir="292"><a href="/big_292.htm">五官科</a></td>
+            <td class="libg" dir="326"><a href="/big_326.htm">中医科</a></td>
+            <td class="libg" dir="321"><a href="/big_321.htm">精神科</a></td>
+            <td class="libg" dir="319"><a href="/big_319.htm">心理</a></td>
+            <td class="libg" dir="337"><a href="/big_337.htm">传染科</a></td>
+            <td class="libg" dir="315"><a href="/big_315.htm">整形美容</a></td>
+            <td class="libg" dir="341"><a href="/big_341.htm">药物保健品</a></td>
+            <td class="libg" dir="345" style="border-right:0px;"><a href="/big_345.htm">其他</a></td>
+          </tr>
+        </table>		
+	   
+		<div class="pt5 none ulone" dir="272">
+                <div class="ksict_272"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_646.htm">内分泌</a></li>						
+                    	 <li><a href="/small_279.htm">神经内科</a></li>						
+                    	 <li><a href="/small_280.htm">呼吸内科</a></li>						
+                    	 <li><a href="/small_277.htm">消化内科</a></li>						
+                    	 <li><a href="/small_281.htm">肾内科</a></li>						
+                    	 <li><a href="/small_278.htm">风湿免疫</a></li>						
+                    	 <li><a href="/small_282.htm">心血管内科</a></li>						
+                    	 <li><a href="/small_346.htm">肿瘤科</a></li>						
+                    	 <li><a href="/small_283.htm">血液内科</a></li>						
+                    	 <li><a href="/small_653.htm">内科其它</a></li>						
+                    </ul>					
+					
+                    <div class="sinax"></div>
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">					  
+                    	<li><a href="/small_680.htm">脑萎缩</a></li>			  
+                    	<li><a href="/small_679.htm">重症肌无力</a></li>
+                    	<li><a href="/small_652.htm">红斑狼疮</a></li>
+                    	<li><a href="/small_542.htm">癫痫病</a></li>
+                    	<li><a href="/small_647.htm">中风</a></li>
+                    	<li><a href="/small_640.htm">帕金森</a></li>			  
+                    	<li><a href="/small_678.htm">脊髓病变</a></li>			  
+                    	<li><a href="/small_645.htm">脉管炎</a></li>			  
+                    	<li><a href="/small_690.htm">肺气肿</a></li>			  
+                    	<li><a href="/small_730.htm">头痛</a></li>				  
+                    	<li><a href="/small_700.htm">肝腹水</a></li>			  
+                    	<li><a href="/small_747.htm">肾衰竭</a></li>
+                    	<li><a href="/small_746.htm">肾炎</a></li>
+                    	<li><a href="/small_744.htm">胃炎</a></li>
+                    	<li><a href="/small_743.htm">三叉神经痛</a></li>
+                    	<li><a href="/small_731.htm">胆囊疾病</a></li>
+                    	<li><a href="/small_644.htm">甲状腺疾病</a></li>
+                    	<li><a href="/small_727.htm">脑瘫</a></li>
+                    	<li><a href="/small_742.htm">白血病</a></li>
+                    	<li><a href="/small_748.htm">肾病综合征</a></li>
+                    	<li><a href="/small_685.htm">面瘫</a></li>
+                    	<li><a href="/small_276.htm">脑血管病</a></li>
+                    	<li><a href="/small_275.htm">糖尿病</a></li>
+                    	<li><a href="/small_274.htm">肝胆疾病</a></li>
+                    	<li><a href="/small_286.htm">痛风</a></li>				  
+                    	<li><a href="/small_285.htm">心脏病</a></li>			  
+                    	<li><a href="/small_284.htm">高血压</a></li>			  
+                    	<li><a href="/small_273.htm">胃肠疾病</a></li>			  
+                    	<li><a href="/small_701.htm">肝硬化</a></li>			  
+                    	<li><a href="/small_704.htm">酒精肝</a></li>			  
+                    	<li><a href="/small_707.htm">肝损伤</a></li>			  
+                    	<li><a href="/small_708.htm">尿毒症</a></li>
+                    	<li><a href="/small_709.htm">急慢性肾炎</a></li>
+                    	<li><a href="/small_710.htm">肾盂性肾炎</a></li>
+                    	<li><a href="/small_681.htm">哮喘</a></li>
+                    	<li><a href="/small_683.htm">肝血管瘤</a></li>
+                    	<li><a href="/small_711.htm">肾积水</a></li>
+                    	<li><a href="/small_691.htm">截瘫</a></li>			  
+                    	<li><a href="/small_756.htm">脑发育不全</a></li>
+                    </ul>					
+                </div>
+            </div>
+	   
+		<div class="pt5 none ulone" dir="297">
+                <div class="ksict_297"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_532.htm">骨科</a></li>						
+                    	 <li><a href="/small_698.htm">结石科</a></li>						
+                    	 <li><a href="/small_553.htm">乳腺外科</a></li>						
+                    	 <li><a href="/small_299.htm">神经外科</a></li>						
+                    	 <li><a href="/small_300.htm">心胸外科</a></li>						
+                    	 <li><a href="/small_301.htm">器官移植</a></li>						
+                    	 <li><a href="/small_302.htm">泌尿外科</a></li>						
+                    	 <li><a href="/small_303.htm">男科</a></li>						
+                    	 <li><a href="/small_304.htm">心血管外科</a></li>						
+                    	 <li><a href="/small_550.htm">普外科</a></li>						
+                    	 <li><a href="/small_654.htm">外科其它</a></li>						
+                    </ul>				
+					
+                    <div class="sinax"></div>
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">					  
+                    	<li><a href="/small_684.htm">骨髓炎</a></li>			  
+                    	<li><a href="/small_544.htm">前列腺</a></li>			  
+                    	<li><a href="/small_533.htm">痔疮</a></li>				  
+                    	<li><a href="/small_694.htm">男性不育</a></li>			  
+                    	<li><a href="/small_695.htm">静脉曲张</a></li>			  
+                    	<li><a href="/small_761.htm">脑积水</a></li>			  
+                    	<li><a href="/small_298.htm">股骨头</a></li>			  
+                    	<li><a href="/small_734.htm">阳痿</a></li>				  
+                    	<li><a href="/small_736.htm">早泄</a></li>				  
+                    	<li><a href="/small_737.htm">腰椎病</a></li>			  
+                    	<li><a href="/small_738.htm">腰椎间盘突出</a></li>		  
+                    	<li><a href="/small_739.htm">股骨头坏死</a></li>		  
+                    	<li><a href="/small_740.htm">颈椎病</a></li>
+                    	<li><a href="/small_552.htm">肛肠疾病</a></li>
+                    	<li><a href="/small_551.htm">烧烫伤</a></li>
+                    	<li><a href="/small_305.htm">性功能障碍</a></li>
+                    	<li><a href="/small_753.htm">肌肉萎缩</a></li>
+                    	<li><a href="/small_547.htm">颈腰椎病</a></li>
+                    	<li><a href="/small_773.htm">疝气</a></li>
+                    	<li><a href="/small_754.htm">脑外伤后遗症</a></li>
+                    	<li><a href="/small_688.htm">强直性脊柱炎</a></li>
+                    </ul>					
+                </div>
+            </div>
+	   
+		<div class="pt5 none ulone" dir="287">
+                <div class="ksict_287"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_509.htm">生殖孕育</a></li>						
+                    	 <li><a href="/small_288.htm">妇科综合</a></li>						
+                    	 <li><a href="/small_289.htm">产科综合</a></li>						
+                    	 <li><a href="/small_697.htm">产后妇科</a></li>						
+                    	 <li><a href="/small_655.htm">妇产科其它</a></li>						
+                    </ul>					
+					
+                    <div class="sinax"></div>
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">					  
+                    	<li><a href="/small_651.htm">外阴白斑</a></li>
+                    	<li><a href="/small_537.htm">女性不孕</a></li>
+                    	<li><a href="/small_480.htm">子宫肌瘤</a></li>
+                    	<li><a href="/small_481.htm">宫颈疾病</a></li>
+                    	<li><a href="/small_290.htm">人流</a></li>
+                    	<li><a href="/small_693.htm">宫颈糜烂</a></li>
+                    	<li><a href="/small_558.htm">痛经</a></li>
+                    	<li><a href="/small_559.htm">助孕技术</a></li>
+                    	<li><a href="/small_557.htm">妇科炎症</a></li>
+                    	<li><a href="/small_556.htm">月经不调</a></li>
+                    	<li><a href="/small_555.htm">卵巢囊肿</a></li>
+                    	<li><a href="/small_554.htm">宫外孕</a></li>			  
+                    	<li><a href="/small_291.htm">不孕不育</a></li>			  
+                    </ul>				
+                </div>
+            </div>
+	   
+		<div class="pt5 none ulone">
+                <div class="ksict_306"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_650.htm">斑秃</a></li>						
+                    	 <li><a href="/small_649.htm">生发</a></li>						
+                    	 <li><a href="/small_515.htm">皮肤过敏</a></li>						
+                    	 <li><a href="/small_648.htm">植发</a></li>						
+                    	 <li><a href="/small_713.htm">腋臭</a></li>						
+                    	 <li><a href="/small_307.htm">白癜风</a></li>						
+                    	 <li><a href="/small_712.htm">灰指甲</a></li>						
+                    	 <li><a href="/small_771.htm">疤痕</a></li>						
+                    	 <li><a href="/small_576.htm">带状疱疹</a></li>						
+                    	 <li><a href="/small_562.htm">痤疮</a></li>						
+                    	 <li><a href="/small_687.htm">鱼鳞病</a></li>						
+                    	 <li><a href="/small_310.htm">湿疹</a></li>						
+                    	 <li><a href="/small_309.htm">荨麻疹</a></li>						
+                    	 <li><a href="/small_308.htm">牛皮癣</a></li>						
+                    	 <li><a href="/small_726.htm">胎记</a></li>					
+                    	 <li><a href="/small_314.htm">皮肤综合</a></li>						
+                    </ul>					
+                </div>
+            </div>
+
+	   
+		<div class="pt5 none ulone" dir="766">
+                <div class="ksict_766"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_311.htm">淋病</a></li>						
+                    	 <li><a href="/small_313.htm">尖锐湿疣</a></li>						
+                    	 <li><a href="/small_560.htm">艾滋病</a></li>						
+                    	 <li><a href="/small_312.htm">梅毒</a></li>						
+                    	 <li><a href="/small_733.htm">生殖器疱疹</a></li>						
+                    	 <li><a href="/small_561.htm">性病综合</a></li>						
+                    </ul>					
+                </div>
+            </div>
+	   
+		<div class="pt5 none ulone" dir="332">
+                <div class="ksict_332"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_333.htm">小儿内科</a></li>						
+                    	 <li><a href="/small_334.htm">小儿外科</a></li>						
+                    	 <li><a href="/small_569.htm">小儿眼科</a></li>						
+                    	 <li><a href="/small_336.htm">小儿综合</a></li>						
+                    </ul>				
+					
+                    <div class="sinax"></div>
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">					  
+                    	<li><a href="/small_682.htm">小儿哮喘</a></li>			  
+                    	<li><a href="/small_665.htm">抽动症</a></li>			  
+                    	<li><a href="/small_514.htm">手足口病</a></li>			  
+                    	<li><a href="/small_539.htm">血管瘤</a></li>
+                    	<li><a href="/small_757.htm">小儿麻痹后遗症</a></li>
+                    	<li><a href="/small_767.htm">唐氏综合症</a></li>
+                    	<li><a href="/small_725.htm">自闭症</a></li>
+                    	<li><a href="/small_566.htm">性早熟</a></li>		  
+                    	<li><a href="/small_563.htm">多动症</a></li>
+                    	<li><a href="/small_638.htm">小儿脑瘫</a></li>
+                    	<li><a href="/small_564.htm">小儿厌食症</a></li>
+                    	<li><a href="/small_570.htm">水痘</a></li>				  
+                    	<li><a href="/small_568.htm">小儿腹泻</a></li>			  
+                    	<li><a href="/small_565.htm">小儿肥胖症</a></li>		  
+                    	<li><a href="/small_567.htm">新生儿疾病</a></li>		  
+                    </ul>				
+                </div>
+            </div>
+
+	   
+		<div class="pt5 none ulone" dir="292">
+                <div class="ksict_292"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_293.htm">耳鼻喉科</a></li>						
+                    	 <li><a href="/small_294.htm">眼科</a></li>						
+                    	 <li><a href="/small_295.htm">口腔科</a></li>						
+                    	 <li><a href="/small_296.htm">五官科综合</a></li>						
+                    </ul>				
+					
+                    <div class="sinax"></div>
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">					  
+                    	<li><a href="/small_675.htm">口疮</a></li>				  
+                    	<li><a href="/small_674.htm">唇腭裂</a></li>			  
+                    	<li><a href="/small_673.htm">种植牙</a></li>			  
+                    	<li><a href="/small_672.htm">牙列不齐</a></li>
+                    	<li><a href="/small_671.htm">牙周炎</a></li>
+                    	<li><a href="/small_670.htm">牙科</a></li>
+                    	<li><a href="/small_669.htm">龋齿</a></li>
+                    	<li><a href="/small_668.htm">扁平苔藓</a></li>
+                    	<li><a href="/small_667.htm">口腔溃疡</a></li>
+                    	<li><a href="/small_666.htm">口臭</a></li>
+                    	<li><a href="/small_696.htm">鼻炎</a></li>
+                    	<li><a href="/small_714.htm">白塞氏病</a></li>
+                    	<li><a href="/small_715.htm">口腔黏膜</a></li>
+                    	<li><a href="/small_717.htm">近视</a></li>
+                    	<li><a href="/small_745.htm">耳鸣耳聋</a></li>
+                    	<li><a href="/small_716.htm">口腔美容</a></li>
+                    	<li><a href="/small_718.htm">弱视</a></li>
+                    	<li><a href="/small_720.htm">青光眼</a></li>
+                    	<li><a href="/small_721.htm">白内障</a></li>
+                    	<li><a href="/small_722.htm">眼科炎症</a></li>
+                    	<li><a href="/small_723.htm">咽炎</a></li>
+                    	<li><a href="/small_724.htm">中耳炎</a></li>
+                    	<li><a href="/small_719.htm">斜视</a></li>
+                    </ul>				
+                </div>
+            </div>
+	   
+		<div class="pt5 none ulone" dir="326">
+                <div class="ksict_326"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_328.htm">中医骨伤科</a></li>
+                    	 <li><a href="/small_329.htm">针灸按摩</a></li>
+                    	 <li><a href="/small_330.htm">中医儿科</a></li>
+                    	 <li><a href="/small_331.htm">中医保健</a></li>
+                    	 <li><a href="/small_356.htm">中医妇科</a></li>
+                    	 <li><a href="/small_327.htm">中医综合</a></li>
+                    </ul>					
+                </div>
+            </div>
+	   
+		<div class="pt5 none ulone">
+                <div class="ksict_321"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+                    	 <li><a href="/small_322.htm">失眠抑郁</a></li>
+                    	 <li><a href="/small_323.htm">精神分裂症</a></li>						
+                    	 <li><a href="/small_325.htm">心理障碍</a></li>						
+                    	 <li><a href="/small_579.htm">妄想症</a></li>						
+                    	 <li><a href="/small_578.htm">精神科综合</a></li>						
+                    </ul>
+                </div>
+            </div>
+
+	   
+		<div class="pt5 none ulone" dir="319">
+                <div class="ksict_319"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+                    	 <li><a href="/small_320.htm">心理咨询</a></li>
+                    	 <li><a href="/small_580.htm">强迫症</a></li>
+                    	 <li><a href="/small_581.htm">网络成瘾</a></li>
+                    	 <li><a href="/small_582.htm">社交恐慌</a></li>
+                    	 <li><a href="/small_583.htm">性心理障碍</a></li>
+                    	 <li><a href="/small_661.htm">心理科其它</a></li>
+                    </ul>					
+                </div>
+            </div>
+
+	   
+		<div class="pt5 none ulone" dir="337">
+                <div class="ksict_337"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+                    	 <li><a href="/small_338.htm">肝病</a></li>						
+                    	 <li><a href="/small_340.htm">寄生虫疾病</a></li>						
+                    	 <li><a href="/small_339.htm">结核病</a></li>						
+                    	 <li><a href="/small_573.htm">传染科综合</a></li>						
+                    </ul>
+					
+                    <div class="sinax"></div>
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">					  
+                    	<li><a href="/small_749.htm">乙肝</a></li>				  
+                    	<li><a href="/small_577.htm">流行性腮腺炎</a></li>		  
+                    	<li><a href="/small_575.htm">狂犬病</a></li>			  
+                    	<li><a href="/small_574.htm">流感</a></li>				  
+                    	<li><a href="/small_572.htm">大小三阳</a></li>			  
+                    	<li><a href="/small_750.htm">肝炎</a></li>				  
+                    	<li><a href="/small_703.htm">丙肝</a></li>
+                    </ul>				
+                </div>
+            </div>
+
+	   
+		<div class="pt5 none ulone" dir="315">
+                <div class="ksict_315"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">					
+                    	 <li><a href="/small_316.htm">美白祛斑</a></li>						
+                    	 <li><a href="/small_741.htm">激光美容</a></li>						
+                    	 <li><a href="/small_729.htm">吸脂减肥</a></li>						
+                    	 <li><a href="/small_728.htm">注射美容</a></li>						
+                    	 <li><a href="/small_633.htm">化妆品</a></li>						
+                    	 <li><a href="/small_632.htm">生殖器整形</a></li>						
+                    	 <li><a href="/small_631.htm">肢体整形</a></li>						
+                    	 <li><a href="/small_630.htm">中医美容</a></li>						
+                    	 <li><a href="/small_629.htm">丰胸美体</a></li>						
+                    	 <li><a href="/small_318.htm">减肥瘦身</a></li>						
+                    	 <li><a href="/small_317.htm">面部整形</a></li>						
+                    	 <li><a href="/small_663.htm">整形美容其它</a></li>					
+                    </ul>
+
+					
+					
+                    <div class="sinax"></div>
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">				  
+                    	<li><a href="/small_751.htm">黄褐斑</a></li>
+                    </ul>					
+                </div>
+            </div>
+
+	   
+		<div class="pt5 none ulone" dir="341">
+                <div class="ksict_341"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">				  
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">						
+                    	 <li><a href="/small_342.htm">用药常识与不良反应</a></li>						
+                    	 <li><a href="/small_343.htm">中草药问题</a></li>						
+                    	 <li><a href="/small_344.htm">西药</a></li>						
+                    	 <li><a href="/small_584.htm">保健品</a></li>						
+                    	 <li><a href="/small_664.htm">药品保健品其它</a></li>						
+                    </ul>
+                </div>
+            </div>
+
+	   
+		<div class="pt5 none ulone" dir="345">
+                <div class="ksict_345"><img src="http://i1.wkimg.com/web/ksicon09.jpg" width="13" height="8" /></div>
+                <div class="kscontop">
+                    <ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">				
+                    	 <li><a href="/small_513.htm">更年期综合症</a></li>						
+                    	 <li><a href="/small_347.htm">饮食营养</a></li>						
+                    	 <li><a href="/small_628.htm">康复保健器材</a></li>						
+                    	 <li><a href="/small_627.htm">不良嗜好</a></li>						
+                    	 <li><a href="/small_755.htm">眩晕科</a></li>						
+                    	 <li><a href="/small_352.htm">体检</a></li>						
+                    	 <li><a href="/small_351.htm">综合</a></li>						
+                    	 <li><a href="/small_350.htm">生活起居</a></li>						
+                    	 <li><a href="/small_349.htm">职业病</a></li>						
+                    	 <li><a href="/small_348.htm">两性健康</a></li>						
+                    	 <li><a href="/small_510.htm">帮助选择</a></li>						
+                    </ul>
+                </div>
+            </div>	   
+		</div><div class="clearfix oh mt10">
+<!-- 上海||重症肌无力  -->
+
+<a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_keshi_ad1&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,1);" target="_blank"><img src="http://xs3.op.xywy.com/api.iu1.xywy.com/xa/20151110/850fe7eb9cfa8a802061d5184e2298e03022.gif" border="0" width="670" height="80" /></a>
+<script>
+    new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_keshi_ad1&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2&tx=&custom_id=3739&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+</script>
+<style type="text/css">
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,button{ margin: 0px; padding: 0px; }
+#club_keshi_left_wenzhi ul,li{list-style: none;}
+#club_keshi_left_wenzhi ol,li{ list-style:none;}
+#club_keshi_left_wenzhi .clearfix:after{ visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+#club_keshi_left_wenzhi .clearfix{*zoom:1;}
+#club_keshi_left_wenzhi .left_ad{ clear:both;overflow:hidden; width:695px; border:solid 1px #C2E1EE; height:40px; padding:4px 0px; width:667px;}
+#club_keshi_left_wenzhi .left_ad .img{ clear:both; margin-bottom:3px;}
+#club_keshi_left_wenzhi .left_ad .txt{ clear:both; padding:0 5px;}
+#club_keshi_left_wenzhi .left_ad .txt li{ float:left; width:164px;color:#999; line-height:20px; font-size:12px; }
+#club_keshi_left_wenzhi .left_ad .txt li a{color:#000; text-decoration:none;}
+#club_keshi_left_wenzhi .left_ad .txt li a:hover{text-decoration:underline;color:#F60; }
+</style>
+
+<div id="club_keshi_left_wenzhi">
+<div class="left_ad">
+	<ul class="txt clearfix">
+             <!-- 上海||重症肌无力 -->   
+    	<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,1);">上海治疗帕金森医院</a></li>
+             <!-- 上海||重症肌无力 -->   
+    	<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,2);">面瘫不愈怎么治疗？</a></li>
+             <!-- 上海||重症肌无力 -->   
+    	<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,3);">脑瘫如何正常走路？</a></li>
+             <!-- 上海||重症肌无力 -->   
+    	<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,4);">三叉神经痛病因是啥？</a></li>
+             <!-- 上海||重症肌无力 -->   
+    	<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,5);">三叉神经痛的治疗方法</a></li>
+             <!-- 上海||重症肌无力 -->   
+    	<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,6);">得了脑萎缩怎么办？</a></li>
+             <!-- 全国||重症肌无力 -->   
+    	<li><a href="http://kf.yywlsj.com/xywy/symy.html" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3652,7);">肌无力是怎么引起的？</a></li>
+             <!-- 全国||重症肌无力 -->   
+    	<li><a href="http://kf.yywlsj.com/xywy/symy.html" target="_blank" onmousedown="recordVisitLinkads('club_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3652,8);">春季如何护理肌无力</a></li>
+       
+    </ul>
+</div>
+</div>
+<script>
+    new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_keshi_left_wenzhi&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2&tx=&custom_id=3739_3652&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+</script></div>
+
+<div class="mt10 ksfun">
+<ul class="f14 deepgray-a ksfun_ul">
+				<li style="margin-right:8px;"><a style="padding:0 8px;" target="_self" type=1 href="/list_679_all.htm">全部问题</a></li>
+			<li style="margin-right:7px;"><a style="padding:0 6px;" target="_self" type=2 href="/list_679_answer.htm">已解决问题</a></li>
+			<li style="margin-right:7px;"><a style="padding:0 6px;" target="_self" type=3 href="/list_679_ing.htm">待解决问题</a></li>
+			<li style="margin-right:8px;"><a style="padding:0 8px;" target="_self" type=4 href="/list_679_score.htm">悬赏问题</a></li>
+			<li style="margin-right:7px;"><a style="padding:0 7px;" target="_self" type=5 href="/list_679_hot.htm">热门问题</a></li>
+			<li style="margin-right:8px;"><a style="padding:0 8px;" target="_self" type=6 href="/list_679_keyd.htm">热门搜索</a></li>			
+			<li style="margin-right:8px;"><a style="padding:0 8px;" target="_self" type=7 href="/list_679_cjqs.htm">求助问题</a></li>
+			<li style="margin-right:8px;"><a style="padding:0 8px;" target="_self" type=8 href="/list_679_update.htm">更新问题</a></li>
+	</ul>
+ </div>		
+
+<div class="bore4 pt10">
+	<ul class="kstab_th ml10 mr10 btnw-a clearfix f12">			
+	<li class="w340 pl10 tl" style="width:420px;">提问标题</li>
+        <li class="tc">回答数</li>
+    <li class=" ml15 tc" style="width:50px;">状态</li>
+        <li class="ml15" style="width:80px; text-align:center">提问时间</li>			
+    </ul>		
+	<table width="100%" class="f12 kstable" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151116/92323958.htm" title="重症肌无力应该怎么治疗好呢" class="btn-a hov_clor">
+重症肌无力应该怎么治疗好呢</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151116/92317611.htm" title="重症肌无力有哪些好的治疗方法" class="btn-a hov_clor">
+重症肌无力有哪些好的治疗方法</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151116/92316837.htm" title="重症肌无力病的症状有哪些怎么办" class="btn-a hov_clor">
+重症肌无力病的症状有哪些怎么办</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151116/92315322.htm" title="重症肌无力会不会影响生育啊" class="btn-a hov_clor">
+重症肌无力会不会影响生育啊</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151116/92313937.htm" title="重症肌无力有什么治疗方法吗" class="btn-a hov_clor">
+重症肌无力有什么治疗方法吗</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151116/92312915.htm" title="重症肌无力有什么治疗方法吗" class="btn-a hov_clor">
+重症肌无力有什么治疗方法吗</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/static/20151116/92312589.htm" title="段教授，家父90高龄，患“重症肌无力”近5年，一直服用..." class="btn-a hov_clor">
+段教授，家父90高龄，患“重症肌无力”近</a>
+    <span title="已采纳" class="caina ml5 dib"></span></td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151116/92311078.htm" title="重症肌无力病的症状有哪些怎么办" class="btn-a hov_clor">
+重症肌无力病的症状有哪些怎么办</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92274346.htm" title="重症肌无力有什么有效的疗法呢" class="btn-a hov_clor">
+重症肌无力有什么有效的疗法呢</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92270364.htm" title="重症肌无力有哪些好的治疗方法" class="btn-a hov_clor">
+重症肌无力有哪些好的治疗方法</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92268571.htm" title="重症肌无力有什么治疗方法吗" class="btn-a hov_clor">
+重症肌无力有什么治疗方法吗</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92267467.htm" title="重症肌无力应该怎么治疗好呢" class="btn-a hov_clor">
+重症肌无力应该怎么治疗好呢</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92264887.htm" title="重症肌无力有哪些好的治疗方法" class="btn-a hov_clor">
+重症肌无力有哪些好的治疗方法</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92264513.htm" title="重症肌无力要怎么样治疗啊？" class="btn-a hov_clor">
+重症肌无力要怎么样治疗啊？</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92254587.htm" title="重症肌无力有哪些治疗方法" class="btn-a hov_clor">
+重症肌无力有哪些治疗方法</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/static/20151115/92249650.htm" title="男性65岁先是眼下垂1年，现在" class="btn-a hov_clor">
+男性65岁先是眼下垂1年，现在</a>
+</td>
+<td class="w100d tc col99">4</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92241995.htm" title="重症肌无力的治疗方法有哪些呀" class="btn-a hov_clor">
+重症肌无力的治疗方法有哪些呀</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92239888.htm" title="重症肌无力感冒应该吃什么药物" class="btn-a hov_clor">
+重症肌无力感冒应该吃什么药物</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92231550.htm" title="重症肌无力的症状有哪些啊" class="btn-a hov_clor">
+重症肌无力的症状有哪些啊</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+<tr>
+<td class="pl20 w340" style="width:430px;">[<a target="_blank" href="/small_679.htm" class="graydeep">重症肌无力</a>]<a target="_blank" href="http://club.xywy.com/question/20151115/92228395.htm" title="引发重症肌无力的原因有哪些" class="btn-a hov_clor">
+引发重症肌无力的原因有哪些</a>
+</td>
+<td class="w100d tc col99">1</td><td class="w80 pl30"><span class="colue"><b class="dug dib"></b>已解决</span></td>
+<td class="col99">1月前</td>
+</tr>
+</table>
+<div class="clearfix pageStyle tc mt20 pb20 f12 pagelink"> <a target="_self" title=上一页 class="wu" href=/list_679_all.htm><<</a><a target="_self" title=上一页 class="wu" href=/list_679_all_10.htm>&lt;</a><a target="_self" class="on" href=/list_679_all_11.htm>11</a><a target="_self" href=/list_679_all_12.htm>12</a><a target="_self" href=/list_679_all_13.htm>13</a><a target="_self" href=/list_679_all_14.htm>14</a><a target="_self" href=/list_679_all_15.htm>15</a><a target="_self" title=下一页 class="wu" href=/list_679_all_12.htm>&gt;</a><a target="_self" title=下一页 class="wu" href=/list_679_all_200.htm>>></a></div>
+</div>
+
+        <div class="labe mt5">	
+    <h2 class="f14 labth"><span><b class="db ksbg hotbq fn">热门标签</b></span></h2>
+	<span style="float:right;"><a target="_blank" href="http://club.xywy.com/tagcloud/zzjwl" style="line-height:30px; font-size:12px; color:#000; padding-right:10px;">更多标签</a></span>
+    </div>
+	
+    <div class="bore4 pl10 pr20 pb20 bbanli f12 clearfix" style="height:84px; overflow:hidden;"> 
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/1571" title="重症肌无力" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">重症肌无力</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/4952" title="肢萎" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">肢萎</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/26716" title="舒筋活血胶囊" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">舒筋活血胶囊</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/3896" title="妊娠合并重症肌无力" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">妊娠合并重症肌无力</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/1570" title="重症肌无力危象" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">重症肌无力危象</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/11257" title="肌性肌无力" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">肌性肌无力</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/11255" title="肌无力危象" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">肌无力危象</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/1670" title="重症肌无力样综合征" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">重症肌无力样综合征</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/1733" title="老年人重症肌无力" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">老年人重症肌无力</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/5173" title="眼科重症肌无力" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">眼科重症肌无力</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/34641" title="强直性肌营养不良症" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">强直性肌营养不良症</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/32129" title="溴吡啶斯的明" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">溴吡啶斯的明</a>
+			
+    <a target="_blank" href="http://club.xywy.com/tagcloud/22361" title="甲硫酸新斯的明注射液" class="pl10 pr10 ml20 btnw-a" onmousedown="__sendClickOdm('pc_club_list', this, 'list:jib+')">甲硫酸新斯的明注射液</a>
+		</div>  
+	
+
+
+<div class="cnle-form pt10 mt10 f12">
+<form method="post" action="http://club.xywy.com/ask.php" class="quick-q" onsubmit="return checkForm(this);">
+	<fieldset style="padding:0px 25px 5px 27px;">
+    <legend class="item_user cnzcth yelbg t9999">无需注册—百万名医生在线为您免费解答</legend>
+    <input type="hidden" name="quick" value="1" />
+    <input type="hidden" name="fromurl" value='quick_lb' />
+    <input type="hidden" name="from_lb" value=fromlb />
+    <ul class="w pt10 clearfix">
+    <li class="fl"><span class="fl tl"><font class="xhao">*</font>性别：</span><input type="radio" class="db fl sewz" name="sex"  value="0"/><label class="fl mr10" for="gender-q-form1" >男</label><input type="radio" class="db fl sewz" name="sex" value="1" /><label class="fl" for="gender-q-form2">女</label></li>
+    <li class="fl"><label class="fl ml10 w55" for="age-q-form"><font class="xhao">*</font>年龄：</label><span class="db fl agedv"><input type="text"  name="age" class="f12 ageput fl"  value=""  /></span></li>
+    <li class="fl"><label class="fl w70 tr" for="mobileChk">手机号：</label><div class="fl agedv" style="width:137px;"><input type="text" name="phone" autocomplete="off" class="f12 ageput fl" style="width:130px;"  onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if($.trim(this.value)===''){this.value=this.defaultValue;}"  value="免费，不公开"  />
+    </div> <span class="db fl f12 red ml10">保密，免费获得医生回复短信</span></li>
+    <li class="cb pt10 w clearfix oh"><font class="xhao fl">*</font><label class="fl" for="tit-q-form"></label><div class="fl"><textarea class="fl putext" name="asktitle" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if($.trim(this.value)===''){this.value=this.defaultValue;}" >提问字数大于10字以上，描述越清楚医生回答越详细哦</textarea>
+	</div></li>            
+
+    <li class="tr pt15 clearfix">
+    <span class="dib tl f12 fl ml15">向全国<strong class="red f16 fb">15</strong>万专家即时咨询</span>
+    <span class="dib fr">
+    <button  type="submit" class="whbtn dib btnw-a btnbg01 f14 nbB cp fb mr15">立即咨询</button>
+    </span>
+    </li>
+    </ul>
+    </fieldset>
+</form>
+</div>
+</div>
+
+    <div class="conri fr">
+	<!--广告-->
+    <style type="text/css">
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,button{ margin: 0px; padding: 0px; }
+#club_keishi_right_top .conri{width: 300px;}
+#club_keishi_right_top .fr{ display: inline;float: right;}
+#club_keishi_right_top .f14{ font-size: 14px;}
+#club_keishi_right_top .tjmy{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FBFBFB;
+    border-color: #02879F #E4E4E4 #E4E4E4;
+    border-image: none;
+    border-right: 1px solid #E4E4E4;
+    border-style: solid;
+    border-width: 2px 1px 1px;
+    height: 27px;
+    line-height: 27px;}
+#club_keishi_right_top .btn-a,.deepgray-a a{ color:#333; }
+#club_keishi_right_top .btn-a:hover,.btnw-a:hover{ text-decoration:none; }
+#club_keishi_right_top .icon_02 {
+    margin-left: 11px;
+}
+#club_keishi_right_top .dib {
+    display: inline-block;
+}
+#club_keishi_right_top .clearfix:after {
+    clear: both;
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    visibility: hidden;
+}
+#club_keishi_right_top .bore4{ border:1px solid #e4e4e4; border-top:0px;}
+/*
+.bore4 {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color #E4E4E4 #E4E4E4;
+    border-image: none;
+    border-right: 1px solid #E4E4E4;
+    border-style: none solid solid;
+    border-width: 0 1px 1px;
+}
+*/
+#club_keishi_right_top .oh {
+    overflow: hidden;
+}
+#club_keishi_right_top .clearfix {
+}
+#club_keishi_right_top .tjdoc {
+    display: inline;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+#club_keishi_right_top .mb10 {
+    margin-bottom: 10px;
+}
+#club_keishi_right_top .mt10 {
+    margin-top: 10px;
+}
+#club_keishi_right_top .fl {
+    display: inline;
+    float: left;
+}
+
+#club_keishi_right_top .kslist {
+    display: inline;
+    width: 63px;
+}
+
+#club_keishi_right_top .kslist li{ height:18px; line-height:18px; width:63px; float:left; display:inline; padding-top:6px;}
+
+#club_keishi_right_top .ml10 {
+    margin-left: 10px;
+}
+
+#club_keishi_right_top ol, ul, li {
+    list-style: none outside none;
+}
+#club_keishi_right_top a {
+    outline: medium none;
+    text-decoration: none;
+}
+#club_keishi_right_top .gray-a a, .graydeep {
+    color: #666666;
+}
+#club_keishi_right_top .f12 {
+    font-size: 12px;
+}
+
+#club_keishi_right_top .bla {
+    color: #1669AC;
+}
+#club_keishi_right_top .item_user {
+    background: url("http://i1.wkimg.com/web/item_user_icon.gif") no-repeat;
+}
+#club_keishi_right_top .zbtnstyzn {
+    background-position: 0 -374px;
+    height: 22px;
+    line-height: 22px;
+    padding-left: 6px;
+}
+#club_keishi_right_top .zbtnstyzn span {
+    background-position: right -399px;
+    color: #015985;
+    float: left;
+    height: 22px;
+    line-height: 22px;
+    padding-right: 7px;
+}
+#club_keishi_right_top .cp {
+    cursor: pointer;
+}
+
+</style>
+
+<div id="club_keishi_right_top">
+<div class="conri">
+<h2 class="f14 tjmy btn-a"><span class="dib  icon_02">名医推荐</span></h2> 
+<div class="bore4 clearfix oh" style="height:200px;">  
+<div class="fl tjdoc mt10 mb10 adnone adshow2012zhunan123456789">
+					 <!-- 上海||重症肌无力  -->
+						<p class="fl"><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,1);" target="_blank" class="fl locJudge" ><img border="0" src="http://gg.xywy.com/newclubkp/wl/shlsz/chy59_77.jpg" width="59" height="77" alt=""></a></p>
+						<ul class="fl kslist ml10">
+						<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,1);"  target="_blank" class="f12 bla">陈鸿耀</a></li>
+						<li class="graydeep f12"><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,1);"  target="_blank" class="graydeep">神经科</a></li>
+						 <li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,1);" target="_blank" class="zbtnstyzn item_user dib"><span class="f12 item_user dib cp">立即咨询</span></a></li>
+						</ul>
+				</div>
+<div class="fl tjdoc mt10 mb10 adnone adshow2012zhunan123456789">
+					 <!-- 上海||重症肌无力  -->
+						<p class="fl"><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,2);" target="_blank" class="fl locJudge" ><img border="0" src="http://gg.xywy.com/newclubkp/wl/shlsz/prl59_77.jpg" width="59" height="77" alt=""></a></p>
+						<ul class="fl kslist ml10">
+						<li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,2);"  target="_blank" class="f12 bla">潘仁龙</a></li>
+						<li class="graydeep f12"><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,2);"  target="_blank" class="graydeep">神经科</a></li>
+						 <li><a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,2);" target="_blank" class="zbtnstyzn item_user dib"><span class="f12 item_user dib cp">立即咨询</span></a></li>
+						</ul>
+				</div>
+<div class="fl tjdoc mt10 mb10 adnone adshow2012zhunan123456789">
+					 <!-- 全国||重症肌无力  -->
+						<p class="fl"><a href="http://kf.yywlsj.com/xywy/symy.html"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3652,3);" target="_blank" class="fl locJudge" ><img border="0" src="http://gg.xywy.com/newclubkp/wl/wjsy/dsy59_77.jpg" width="59" height="77" alt=""></a></p>
+						<ul class="fl kslist ml10">
+						<li><a href="http://kf.yywlsj.com/xywy/symy.html"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3652,3);"  target="_blank" class="f12 bla">杜淑云</a></li>
+						<li class="graydeep f12"><a href="http://kf.yywlsj.com/xywy/symy.html"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3652,3);"  target="_blank" class="graydeep">神经肌肉病</a></li>
+						 <li><a href="http://kf.yywlsj.com/xywy/symy.html" onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3652,3);" target="_blank" class="zbtnstyzn item_user dib"><span class="f12 item_user dib cp">立即咨询</span></a></li>
+						</ul>
+				</div>
+<div class="fl tjdoc mt10 mb10 adnone adshow2012zhunan123456789">
+					 <!-- 全国||重症肌无力  -->
+						<p class="fl"><a href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3678,4);" target="_blank" class="fl locJudge" ><img border="0" src="http://static.xa.xywy.com/20140912/1283342d1892d8f9022807f159f4c1eb90090.jpg" width="59" height="77" alt=""></a></p>
+						<ul class="fl kslist ml10">
+						<li><a href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3678,4);"  target="_blank" class="f12 bla">谢彦英</a></li>
+						<li class="graydeep f12"><a href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com"  onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3678,4);"  target="_blank" class="graydeep">小儿脑瘫</a></li>
+						 <li><a href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com" onmousedown="recordVisitLinkads('club_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3678,4);" target="_blank" class="zbtnstyzn item_user dib"><span class="f12 item_user dib cp">立即咨询</span></a></li>
+						</ul>
+				</div>
+	</div>
+</div>
+</div>
+<script>
+    new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_keishi_right_top&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2&tx=&custom_id=3739_3652_3678&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+</script>			
+		 <!--左边state-->
+        <div class="mt10 clearfix">
+		<!--end recomm-read-->
+		<!-- 上海||重症肌无力  -->
+
+<div id="club_keshi_right_top_single">
+	
+		<a href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_keshi_right_top_single&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3739,1);" target="_blank"><img src="http://static.xa.xywy.com/20150304/26cd469cc33231999f0afe736a16dcd485628.gif" border="0" width="300" height="250" /></a>
+		
+</div>
+
+<script>
+    new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_keshi_right_top_single&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2&tx=&custom_id=3739&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+</script>
+		</div>		
+
+        <div class="recomm-read mt10">
+		<style>
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, button {
+    margin: 0;
+    padding: 0;
+}
+#club_keshi_right_sqgg .mt10 {
+    margin-top: 10px;
+}
+#club_keshi_right_sqgg .tjmy {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FBFBFB;
+    border-color: #02879F #E4E4E4 #E4E4E4;
+    border-image: none;
+    border-right: 1px solid #E4E4E4;
+    border-style: solid;
+    border-width: 2px 1px 1px;
+    height: 27px;
+    line-height: 27px;
+}
+#club_keshi_right_sqgg .f14 {
+    font-size: 14px;
+}
+#club_keshi_right_sqgg .btn-a, .deepgray-a a {
+    color: #333333;
+}
+#club_keshi_right_sqgg .icon_02 {
+    margin-left: 11px;
+}
+#club_keshi_right_sqgg .dib {
+    display: inline-block;
+}
+#club_keshi_right_sqgg .bore4{
+	border:1px solid #E4E4E4;border-top:0px;
+}
+#club_keshi_right_sqgg .pr10 {
+    padding-right: 10px;
+}
+#club_keshi_right_sqgg .pl10 {
+    padding-left: 10px;
+}
+#club_keshi_right_sqgg .pb5 {
+    padding-bottom: 5px;
+}
+#club_keshi_right_sqgg .pt5 {
+    padding-top: 5px;
+}
+#club_keshi_right_sqgg .lh200 {
+    line-height: 200%;
+}
+#club_keshi_right_sqgg .f12 {
+    font-size: 12px;
+}
+
+#club_keshi_right_sqgg LI {
+	LIST-STYLE: none none outside; FONT-SIZE: 12px; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"
+}
+#club_keshi_right_sqgg .gaoul li{ height:24px; margin-left:7px; line-height:24px; background:url(http://i1.wkimg.com/web/item_user_icon.gif) no-repeat 0px -312px;}
+#club_keshi_right_sqgg .gaoul li a{ color:#333; text-decoration:none; padding-left:6px;}
+#club_keshi_right_sqgg .gaoul li a:hover{ color:#ff6600; text-decoration:underline; }
+
+</style>
+
+<div id="club_keshi_right_sqgg">
+<div class="mt10" style="width:300px;">
+
+		<h2 class="f14 tjmy btn-a mt10"><span class="dib icon_02">社区公告</span></h2>
+
+		<div class="bore4 deepgray-a pt5 pl10 pr10 pb5 col-list lh200 f12 infolist">
+			<ul class="gaoul">
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/fangtan/119.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,1);" target="_blank">武警总医院魏玉杰主任谈科学戒烟知多少</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/baby/hyfm/fmqh/zrfm/20141117_765640.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,2);" target="_blank">产房里意想不到的12件尴尬事</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/bj/bjxz/20110110_746856.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,3);" target="_blank">女人吃精液有10大好处</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/dzjk/nrsj/liangzitu/jctp/20150204/755498.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,4);" target="_blank">揭秘惊世骇俗的“猪人”事件真相</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/fangtan/115.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,5);" target="_blank">山东省千佛山医院郭源谈肝移植术后康复要点</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/nx/fcke/jhsy/byyw/byff/qtff/20150415/762751.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,6);" target="_blank">史上最全最健康的避孕方法</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/yspd/pwys/yswh/201503/24-753825.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,7);" target="_blank">游戏妹子性感美胸是怎样练成的</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/laoren/lnxw/201501/16-767774.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,8);" target="_blank">生死有命 患癌去世的明星</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/xl/xlld/201504/13-759750.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,9);" target="_blank">为情整容值得吗？00后整成蛇精脸</A></LI>
+			            <!-- default||default -->
+			<LI><A href="http://www.xywy.com/mrss2/zxtj/27-742610.html" onmousedown="recordVisitLinkads('club_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2',0,10);" target="_blank">全球另类重口味美容术</A></LI>
+						</ul>
+		</div>
+
+</div><!--end recomm-read-->
+</div>
+<script>
+    new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_keshi_right_sqgg&chkarea=&chkword=&chkwordid=0&fromtype=2&tx=&custom_id=0&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+</script>		</div><!--end recomm-read-->
+
+		<div class="pr oh mt10" id="ksRimg">
+		<!-- 全国||重症肌无力  -->
+
+<div id="club_keshi_right_bottom_single">
+	
+		<a href="http://kf.yywlsj.com/xywy/symy.html" onmousedown="recordVisitLinkads('club_keshi_right_bottom_single&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2',3652,1);" target="_blank"><img src="http://static.xa.xywy.com/20150423/6720d4d14e8e487a3c6257785436fc7f82371.gif" border="0" width="300" height="250" /></a>
+		
+</div>
+<script>
+    new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_keshi_right_bottom_single&chkarea=%E4%B8%8A%E6%B5%B7&chkword=679&chkwordid=679&fromtype=2&tx=&custom_id=3652&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+</script>		</div><!--end slidead-->
+		
+		<style>
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, button {
+    margin: 0;
+    padding: 0;
+}
+#club_keshi_right_ydtj .mt10 {
+    margin-top: 10px;
+}
+#club_keshi_right_ydtj .tjmy {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FBFBFB;
+    border-color: #02879F #E4E4E4 #E4E4E4;
+    border-image: none;
+    border-right: 1px solid #E4E4E4;
+    border-style: solid;
+    border-width: 2px 1px 1px;
+    height: 27px;
+    line-height: 27px;
+}
+#club_keshi_right_ydtj .f14 {
+    font-size: 14px;
+}
+#club_keshi_right_ydtj .btn-a, .deepgray-a a {
+    color: #333333;
+}
+#club_keshi_right_ydtj .icon_02 {
+    margin-left: 11px;
+}
+#club_keshi_right_ydtj .dib {
+    display: inline-block;
+}
+#club_keshi_right_ydtj .bore4{
+	border:1px solid #E4E4E4;border-top:0px;
+}
+#club_keshi_right_ydtj .pr10 {
+    padding-right: 10px;
+}
+#club_keshi_right_ydtj .pl10 {
+    padding-left: 10px;
+}
+#club_keshi_right_ydtj .pb5 {
+    padding-bottom: 5px;
+}
+#club_keshi_right_ydtj .pt5 {
+    padding-top: 5px;
+}
+#club_keshi_right_ydtj .lh200 {
+    line-height: 200%;
+}
+#club_keshi_right_ydtj .f12 {
+    font-size: 12px;
+}
+
+#club_keshi_right_ydtj LI {
+	LIST-STYLE: none none outside; FONT-SIZE: 12px; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"
+}
+#club_keshi_right_ydtj .gaoul li{ height:24px; margin-left:7px; line-height:24px; background:url(http://i1.wkimg.com/web/item_user_icon.gif) no-repeat 0px -312px;}
+#club_keshi_right_ydtj .gaoul li a{ color:#333; text-decoration:none; padding-left:6px;}
+#club_keshi_right_ydtj .gaoul li a:hover{ color:#ff6600; text-decoration:underline; }
+</style>
+
+<div id="club_keshi_right_ydtj">
+<div class="mt10" style="width:300px;">
+
+		<h2 class="f14 tjmy btn-a mt10"><span class="dib icon_02">阅读推荐</span></h2>
+
+		<div class="bore4 deepgray-a pt5 pl10 pr10 pb5 col-list lh200 f12 infolist">
+			<ul class="gaoul">
+			             <!-- default||default -->
+			<LI><A href="http://www.xywy.com/baby/shishang/xw/20150324_769304.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,1);" target="_blank">揭秘!是什么让女人私处变黑</A></LI>
+			             <!-- default||default -->
+			<LI><A href="http://www.xywy.com/dzjk/nxtd/zxtj/20150414/762736.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,2);" target="_blank">女人6道“沟”最吸引男人</A></LI>
+			             <!-- default||default -->
+			<LI><A href="http://www.xywy.com/mrss2/photo/05-743697.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,3);" target="_blank">慎入：美女减肥成干尸</A></LI>
+			             <!-- default||default -->
+			<LI><A href="http://www.xywy.com/yspd/pwys/yswh/201504/03-754386.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,4);" target="_blank">八种食物使女性轻松获得性高潮</A></LI>
+			             <!-- default||default -->
+			<LI><A href="http://zx.xywy.com/mingxing/746824.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,5);" target="_blank">盘点：世界十大童颜巨乳波神</A></LI>
+			             <!-- default||default -->
+			<LI><A href="http://www.xywy.com/bj/wq/20141111_804772.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,6);" target="_blank">安全套的七个误区害死人</A></LI>
+			             <!-- default||default -->
+			<LI><A href="http://www.xywy.com/zy/yssl/yysw/777125.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,7);" target="_blank">老中医经常吃的15味中药</A></LI>
+			             <!-- default||default -->
+			<LI><A href="http://www.xywy.com/zy/zywh/xs/774451.html" onmousedown="recordVisitLinkads('club_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2',0,8);" target="_blank">6个穴位让女人高潮来得快</A></LI>
+						</ul>
+		</div>
+
+</div><!--end recomm-read-->
+</div>
+<script>
+    new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_keshi_right_ydtj&chkarea=&chkword=&chkwordid=0&fromtype=2&tx=&custom_id=0&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+</script>        
+        <!-- 联盟广告-->
+        <script type="text/javascript">
+		/*300x250club列表右侧*/
+		var cpro_id = "u1451518";
+		</script>
+		<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+		<!--end w275-->
+		<!--end disease-sort-->
+		<!--end scroll-->
+</div>
+</div>
+
+<div class="clearfix chooks none">
+<div class="xzkes tc f12 graydeep cp">选择科室 </div>
+<div class="xzcon pt10 pb10 none">
+<table class="depart paofu f12 fb btnw-a clearfix mr10 gongds" width="657" border="0" cellspacing="0" cellpadding="0">
+<tr height="49">
+<td align="center" class="libg"><a href="/big_272.htm">内科</a></td>
+<td align="center" class="libg"><a href="/big_297.htm">外科</a></td>
+<td align="center" class="libg"><a href="/big_287.htm">妇产科</a></td>
+<td align="center" class="libg"><a href="/big_306.htm">皮肤科</a></td>            
+<td align="center" class="libg"><a href="/big_766.htm">性病科</a></td>
+<td align="center" class="libg"><a href="/big_332.htm">儿科</a></td> 
+<td align="center" class="libg"><a href="/big_292.htm">五官科</a></td>
+<td align="center" class="libg"><a href="/big_326.htm">中医科</a></td>
+<td align="center" class="libg"><a href="/big_321.htm">精神科</a></td>
+<td align="center" class="libg"><a href="/big_319.htm">心理</a></td>
+<td align="center" class="libg"><a href="/big_337.htm">传染科</a></td>
+<td align="center" class="libg"><a href="/big_315.htm">整形美容</a></td>
+<td align="center" class="libg"><a href="/big_341.htm">药物保健品</a></td>
+<td style="border-right:0px;" align="center"  class="libg"><a href="/big_345.htm">其他</a></td>
+</tr>
+</table>
+<div class="pt5 none ulone">
+<div class="ksictz_272"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_646.htm">内分泌</a></li>
+<li><a href="/small_279.htm">神经内科</a></li>
+<li><a href="/small_280.htm">呼吸内科</a></li>
+<li><a href="/small_277.htm">消化内科</a></li>
+<li><a href="/small_281.htm">肾内科</a></li>
+<li><a href="/small_278.htm">风湿免疫</a></li>
+<li><a href="/small_282.htm">心血管内科</a></li>
+<li><a href="/small_346.htm">肿瘤科</a></li>
+<li><a href="/small_283.htm">血液内科</a></li>
+<li><a href="/small_653.htm">内科其它</a></li>
+</ul>
+<div class="sinax"></div>
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">		  
+<li><a href="/small_680.htm">脑萎缩</a></li>		  
+<li><a href="/small_679.htm">重症肌无力</a></li>		  
+<li><a href="/small_652.htm">红斑狼疮</a></li>
+<li><a href="/small_542.htm">癫痫病</a></li>
+<li><a href="/small_647.htm">中风</a></li>
+<li><a href="/small_640.htm">帕金森</a></li>
+<li><a href="/small_678.htm">脊髓病变</a></li>
+<li><a href="/small_645.htm">脉管炎</a></li>
+<li><a href="/small_690.htm">肺气肿</a></li>
+<li><a href="/small_730.htm">头痛</a></li>
+<li><a href="/small_700.htm">肝腹水</a></li>
+<li><a href="/small_747.htm">肾衰竭</a></li>
+<li><a href="/small_746.htm">肾炎</a></li>
+<li><a href="/small_744.htm">胃炎</a></li>
+<li><a href="/small_743.htm">三叉神经痛</a></li>
+<li><a href="/small_731.htm">胆囊疾病</a></li>
+<li><a href="/small_644.htm">甲状腺疾病</a></li>
+<li><a href="/small_727.htm">脑瘫</a></li>
+<li><a href="/small_742.htm">白血病</a></li>
+<li><a href="/small_748.htm">肾病综合征</a></li>
+<li><a href="/small_685.htm">面瘫</a></li>
+<li><a href="/small_276.htm">脑血管病</a></li>
+<li><a href="/small_275.htm">糖尿病</a></li>
+<li><a href="/small_274.htm">肝胆疾病</a></li>
+<li><a href="/small_286.htm">痛风</a></li>
+<li><a href="/small_285.htm">心脏病</a></li>
+<li><a href="/small_284.htm">高血压</a></li>
+<li><a href="/small_273.htm">胃肠疾病</a></li>
+<li><a href="/small_701.htm">肝硬化</a></li>
+<li><a href="/small_704.htm">酒精肝</a></li>
+<li><a href="/small_707.htm">肝损伤</a></li>
+<li><a href="/small_708.htm">尿毒症</a></li>
+<li><a href="/small_709.htm">急慢性肾炎</a></li>
+<li><a href="/small_710.htm">肾盂性肾炎</a></li>
+<li><a href="/small_681.htm">哮喘</a></li>
+<li><a href="/small_683.htm">肝血管瘤</a></li>
+<li><a href="/small_711.htm">肾积水</a></li>
+<li><a href="/small_691.htm">截瘫</a></li>
+<li><a href="/small_756.htm">脑发育不全</a></li>
+</ul>		
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_297">
+<img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/>
+</div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_532.htm">骨科</a></li>
+<li><a href="/small_698.htm">结石科</a></li>
+<li><a href="/small_553.htm">乳腺外科</a></li>
+<li><a href="/small_299.htm">神经外科</a></li>
+<li><a href="/small_300.htm">心胸外科</a></li>
+<li><a href="/small_301.htm">器官移植</a></li>
+<li><a href="/small_302.htm">泌尿外科</a></li>
+<li><a href="/small_303.htm">男科</a></li>
+<li><a href="/small_304.htm">心血管外科</a></li>
+<li><a href="/small_550.htm">普外科</a></li>
+<li><a href="/small_654.htm">外科其它</a></li>
+</ul>
+<div class="sinax"></div>
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">
+<li><a href="/small_684.htm">骨髓炎</a></li>
+<li><a href="/small_544.htm">前列腺</a></li>
+<li><a href="/small_533.htm">痔疮</a></li>
+<li><a href="/small_694.htm">男性不育</a></li>
+<li><a href="/small_695.htm">静脉曲张</a></li>
+<li><a href="/small_761.htm">脑积水</a></li>
+<li><a href="/small_298.htm">股骨头</a></li>
+<li><a href="/small_734.htm">阳痿</a></li>
+<li><a href="/small_736.htm">早泄</a></li>
+<li><a href="/small_737.htm">腰椎病</a></li>
+<li><a href="/small_738.htm">腰椎间盘突出</a></li>
+<li><a href="/small_739.htm">股骨头坏死</a></li>
+<li><a href="/small_740.htm">颈椎病</a></li>
+<li><a href="/small_552.htm">肛肠疾病</a></li>
+<li><a href="/small_551.htm">烧烫伤</a></li>
+<li><a href="/small_305.htm">性功能障碍</a></li>
+<li><a href="/small_753.htm">肌肉萎缩</a></li>
+<li><a href="/small_547.htm">颈腰椎病</a></li>
+<li><a href="/small_773.htm">疝气</a></li>
+<li><a href="/small_754.htm">脑外伤后遗症</a></li>
+<li><a href="/small_688.htm">强直性脊柱炎</a></li>
+</ul>		
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_287"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_509.htm">生殖孕育</a></li>
+<li><a href="/small_288.htm">妇科综合</a></li>
+<li><a href="/small_289.htm">产科综合</a></li>
+<li><a href="/small_697.htm">产后妇科</a></li>
+<li><a href="/small_655.htm">妇产科其它</a></li>
+</ul>
+<div class="sinax"></div>
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">
+<li><a href="/small_651.htm">外阴白斑</a></li>
+<li><a href="/small_537.htm">女性不孕</a></li>
+<li><a href="/small_480.htm">子宫肌瘤</a></li>
+<li><a href="/small_481.htm">宫颈疾病</a></li>
+<li><a href="/small_290.htm">人流</a></li>
+<li><a href="/small_693.htm">宫颈糜烂</a></li>
+<li><a href="/small_558.htm">痛经</a></li>
+<li><a href="/small_559.htm">助孕技术</a></li>
+<li><a href="/small_557.htm">妇科炎症</a></li>
+<li><a href="/small_556.htm">月经不调</a></li>
+<li><a href="/small_555.htm">卵巢囊肿</a></li>
+<li><a href="/small_554.htm">宫外孕</a></li>
+<li><a href="/small_291.htm">不孕不育</a></li>
+</ul>
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_306"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_650.htm">斑秃</a></li>
+<li><a href="/small_649.htm">生发</a></li>
+<li><a href="/small_515.htm">皮肤过敏</a></li>
+<li><a href="/small_648.htm">植发</a></li>
+<li><a href="/small_713.htm">腋臭</a></li>
+<li><a href="/small_307.htm">白癜风</a></li>
+<li><a href="/small_712.htm">灰指甲</a></li>
+<li><a href="/small_771.htm">疤痕</a></li>
+<li><a href="/small_576.htm">带状疱疹</a></li>
+<li><a href="/small_562.htm">痤疮</a></li>
+<li><a href="/small_687.htm">鱼鳞病</a></li>
+<li><a href="/small_310.htm">湿疹</a></li>
+<li><a href="/small_309.htm">荨麻疹</a></li>
+<li><a href="/small_308.htm">牛皮癣</a></li>
+<li><a href="/small_726.htm">胎记</a></li>
+<li><a href="/small_314.htm">皮肤综合</a></li>
+</ul>
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_766"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_311.htm">淋病</a></li>
+<li><a href="/small_313.htm">尖锐湿疣</a></li>
+<li><a href="/small_560.htm">艾滋病</a></li>
+<li><a href="/small_312.htm">梅毒</a></li>
+<li><a href="/small_733.htm">生殖器疱疹</a></li>
+<li><a href="/small_561.htm">性病综合</a></li>
+</ul>
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_332"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_333.htm">小儿内科</a></li>
+<li><a href="/small_334.htm">小儿外科</a></li>
+<li><a href="/small_569.htm">小儿眼科</a></li>
+<li><a href="/small_336.htm">小儿综合</a></li>
+</ul>		
+<div class="sinax"></div>
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">
+<li><a href="/small_682.htm">小儿哮喘</a></li>
+<li><a href="/small_665.htm">抽动症</a></li>
+<li><a href="/small_514.htm">手足口病</a></li>
+<li><a href="/small_539.htm">血管瘤</a></li>
+<li><a href="/small_757.htm">小儿麻痹后遗症</a></li>
+<li><a href="/small_767.htm">唐氏综合症</a></li>
+<li><a href="/small_725.htm">自闭症</a></li>
+<li><a href="/small_566.htm">性早熟</a></li>
+<li><a href="/small_563.htm">多动症</a></li>
+<li><a href="/small_638.htm">小儿脑瘫</a></li>
+<li><a href="/small_564.htm">小儿厌食症</a></li>
+<li><a href="/small_570.htm">水痘</a></li>
+<li><a href="/small_568.htm">小儿腹泻</a></li>
+<li><a href="/small_565.htm">小儿肥胖症</a></li>
+<li><a href="/small_567.htm">新生儿疾病</a></li>
+</ul>		
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_292"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_293.htm">耳鼻喉科</a></li>
+<li><a href="/small_294.htm">眼科</a></li>
+<li><a href="/small_295.htm">口腔科</a></li>
+<li><a href="/small_296.htm">五官科综合</a></li>
+</ul>		
+<div class="sinax"></div>
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">
+<li><a href="/small_675.htm">口疮</a></li>
+<li><a href="/small_674.htm">唇腭裂</a></li>
+<li><a href="/small_673.htm">种植牙</a></li>
+<li><a href="/small_672.htm">牙列不齐</a></li>
+<li><a href="/small_671.htm">牙周炎</a></li>
+<li><a href="/small_670.htm">牙科</a></li>
+<li><a href="/small_669.htm">龋齿</a></li>
+<li><a href="/small_668.htm">扁平苔藓</a></li>
+<li><a href="/small_667.htm">口腔溃疡</a></li>
+<li><a href="/small_666.htm">口臭</a></li>
+<li><a href="/small_696.htm">鼻炎</a></li>
+<li><a href="/small_714.htm">白塞氏病</a></li>
+<li><a href="/small_715.htm">口腔黏膜</a></li>
+<li><a href="/small_717.htm">近视</a></li>
+<li><a href="/small_745.htm">耳鸣耳聋</a></li>
+<li><a href="/small_716.htm">口腔美容</a></li>
+<li><a href="/small_718.htm">弱视</a></li>
+<li><a href="/small_720.htm">青光眼</a></li>
+<li><a href="/small_721.htm">白内障</a></li>
+<li><a href="/small_722.htm">眼科炎症</a></li>
+<li><a href="/small_723.htm">咽炎</a></li>
+<li><a href="/small_724.htm">中耳炎</a></li>
+<li><a href="/small_719.htm">斜视</a></li>
+</ul>		
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_326"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_328.htm">中医骨伤科</a></li>
+<li><a href="/small_329.htm">针灸按摩</a></li>
+<li><a href="/small_330.htm">中医儿科</a></li>
+<li><a href="/small_331.htm">中医保健</a></li>
+<li><a href="/small_356.htm">中医妇科</a></li>
+<li><a href="/small_327.htm">中医综合</a></li>
+</ul>
+</div>
+</div>	   
+<div class="pt5 none ulone ">
+<div class="ksictz_321"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_322.htm">失眠抑郁</a></li>
+<li><a href="/small_323.htm">精神分裂症</a></li>
+<li><a href="/small_325.htm">心理障碍</a></li>
+<li><a href="/small_579.htm">妄想症</a></li>
+<li><a href="/small_578.htm">精神科综合</a></li>
+</ul>
+</div>
+</div>	   
+<div class="pt5 none ulone ">
+<div class="ksictz_319"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_320.htm">心理咨询</a></li>
+<li><a href="/small_580.htm">强迫症</a></li>
+<li><a href="/small_581.htm">网络成瘾</a></li>
+<li><a href="/small_582.htm">社交恐慌</a></li>
+<li><a href="/small_583.htm">性心理障碍</a></li>
+<li><a href="/small_661.htm">心理科其它</a></li>
+</ul>
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_337"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_338.htm">肝病</a></li>
+<li><a href="/small_340.htm">寄生虫疾病</a></li>
+<li><a href="/small_339.htm">结核病</a></li>
+<li><a href="/small_573.htm">传染科综合</a></li>
+</ul>
+<div class="sinax"></div>
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">
+<li><a href="/small_749.htm">乙肝</a></li>
+<li><a href="/small_577.htm">流行性腮腺炎</a></li>
+<li><a href="/small_575.htm">狂犬病</a></li>
+<li><a href="/small_574.htm">流感</a></li>
+<li><a href="/small_572.htm">大小三阳</a></li>
+<li><a href="/small_750.htm">肝炎</a></li>
+<li><a href="/small_703.htm">丙肝</a></li>
+</ul>
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_315"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_316.htm">美白祛斑</a></li>
+<li><a href="/small_741.htm">激光美容</a></li>
+<li><a href="/small_729.htm">吸脂减肥</a></li>
+<li><a href="/small_728.htm">注射美容</a></li>
+<li><a href="/small_633.htm">化妆品</a></li>
+<li><a href="/small_632.htm">生殖器整形</a></li>
+<li><a href="/small_631.htm">肢体整形</a></li>
+<li><a href="/small_630.htm">中医美容</a></li>
+<li><a href="/small_629.htm">丰胸美体</a></li>
+<li><a href="/small_318.htm">减肥瘦身</a></li>
+<li><a href="/small_317.htm">面部整形</a></li>
+<li><a href="/small_663.htm">整形美容其它</a></li>
+</ul>
+<div class="sinax"></div>
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15 pb10">
+<li><a href="/small_751.htm">黄褐斑</a></li>
+</ul>		
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_341"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_342.htm">用药常识与不良反应</a></li>
+<li><a href="/small_343.htm">中草药问题</a></li>
+<li><a href="/small_344.htm">西药</a></li>
+<li><a href="/small_584.htm">保健品</a></li>
+<li><a href="/small_664.htm">药品保健品其它</a></li>
+</ul>	
+</div>
+</div>
+<div class="pt5 none ulone ">
+<div class="ksictz_345"><img src="http://i1.wkimg.com/web/ksicon08.gif" width="13" height="7" class="ml10"/></div>
+<div class="kscon ml10 mr10">	  
+<ul class="clearfix ejks f12 deepgray-a pl20 pr20 pt15">
+<li><a href="/small_513.htm">更年期综合症</a></li>
+<li><a href="/small_347.htm">饮食营养</a></li>
+<li><a href="/small_628.htm">康复保健器材</a></li>
+<li><a href="/small_627.htm">不良嗜好</a></li>
+<li><a href="/small_755.htm">眩晕科</a></li>
+<li><a href="/small_352.htm">体检</a></li>
+<li><a href="/small_351.htm">综合</a></li>
+<li><a href="/small_350.htm">生活起居</a></li>
+<li><a href="/small_349.htm">职业病</a></li>
+<li><a href="/small_348.htm">两性健康</a></li>
+<li><a href="/small_510.htm">帮助选择</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$('a[type="1"]').addClass('kscree');
+$('li.cityList-more').mouseover(function(){
+	$('.listCon-li').show();
+})
+$('.listCon-li').mouseleave(function(){
+	$('.listCon-li').hide();
+});	
+	//科室主菜单
+$('td[dir="272"]').find('a').addClass('dept_current').css('color','#fff');
+$('div.ksict_272').parent().show();
+
+	$('ul.ejks a:contains("重症肌无力")').filter("a[href*=679]").css({'color':'#FFF','background-color':'#ACBFC9'});
+	
+$('table.erjikes td').mouseover(function(){
+		var i = $(this).index();
+		
+				
+	}).mouseout(function(){
+		
+		$('table.depart td[dir=272]').addClass('kshov');
+		$('table.depart td[dir=679]').addClass('kshov');
+	});
+	
+	$('div.erjis').mouseleave(function(){
+			});
+	
+	$(window).scroll(function(){
+		var t=document.documentElement.scrollTop|| document.body.scrollTop;
+		if(t>330){
+			$(".chooks").removeClass("none");
+		}else{
+			$(".chooks").addClass("none");
+		}
+	}).scroll();
+	
+	//选择科室浮动
+	$('div.xzkes').mouseenter(function(){
+		$(this).next('div').show();
+	});
+	
+	$('table.paofu td').mouseover(function(){
+		var i = $(this).index();
+		$('table.paofu td').removeClass('hover');
+		$('.xzcon div.ulone').hide();
+		$('.xzcon div.ulone').eq(i).show();
+		$(this).addClass('hover');
+	});
+	
+	$('.chooks').mouseleave(function(){
+		$('.xzcon').hide();
+	});
+	
+	//kshov
+	$('a[type=1]').addClass('kscree');
+	$('.erjis a, .paofu a').attr('target','_blank');
+    $('.pt5 a').attr('target','_blank');
+
+$(function(){
+	$('.listCon-btn').click(function(event){
+		$('.listCon-li').toggleClass('none');	
+		event.stopPropagation();
+		return false;
+	});
+	
+	$('body').click(function(){
+		$('.listCon-li').addClass('none');
+	});
+	
+	$('.search-bar-ul a').click(function(){
+		$('.listCon-btn').text( $(this).text() );
+		$('body').click();
+		$('.search-form-bar').attr( 'action', $(this).attr('href')  );
+		return false;
+	});
+
+});
+	
+
+function checkForm(obj){
+	var age=$(obj).find('input[name=age]');
+	var phone=$(obj).find('input[name=phone]');
+	var asktitle=$(obj).find('textarea[name=asktitle]');
+	var r = /^[-+]?\d*$/;
+	if(!$(obj).find("input:checked").length){
+		alert('请选择性别。');
+		return false;
+	};
+
+	if($.trim(age.val())==""){
+		alert('请输入年龄。');
+		age.focus();
+		return false;
+	}else if($.trim(age.val())!="" && isNaN(age.val())){
+		alert('请输入正确年龄。');
+		age.focus();
+		age.val('');
+		return false;
+	}else if(!r.test(age.val())){
+		alert('请输入正确年龄。');
+		age.focus();
+		age.val('');
+		return false;
+	}else if(parseInt(age.val(),10)>100 || parseInt(age.val(),10)<0 ){
+		alert('请输入正确年龄。');
+		age.focus();
+		return false;
+	};	
+
+	if($.trim(phone.val())!="" && $.trim(phone.val())!="免费，不公开"){
+		if(!/^(\+86|86|)1[358][0-9]{9}$/.test($.trim(phone.val()))){
+			alert('输入正确的手机号！');
+			phone.focus();
+			phone.val('');
+			return false;
+		}
+	};
+
+	if($.trim(asktitle.val()).length<10){
+		alert('最少输入10个汉字。');
+		asktitle.focus();
+		return false;
+	};
+
+	if($.trim(asktitle.val())=="提问字数大于10字以上，描述越清楚医生回答越详细哦" || lrtrim(asktitle.val())=="" ){
+		alert('请输入问题描述。');
+		asktitle.focus();
+		asktitle.val('');
+		return false;
+	}
+
+	if(/[^\u4E00-\u9FA5a-zA-Z0-9]{2}/.test($.trim(asktitle.val()))){
+		alert('请输入问题描述。');
+		asktitle.focus();
+		asktitle.val('');
+		return false;
+	}
+}
+</script>
+<div class="w980 bc pt15">
+    <div class="FootMenu f14 clearfix">
+        <ul class="clearfix fb">
+        <li class="fl on"><a href="http://club.xywy.com/kswd.htm" class="dib">热门科室</a></li>
+        <li class="fl"><a href="http://club.xywy.com" class="dib">有问必答</a></li>
+        <li class="fl"><a href="http://z.xywy.com/" class="dib">专家网</a></li>
+        <li class="fl"><a href="http://yao.xywy.com/" class="dib">药品网</a></li>
+        <li class="fl"><a href="http://www.xywy.com/zixun/" class="dib">资讯中心</a></li>
+        <li class="fl"><a href="#" onclick="return false;" class="dib">健康推荐</a></li>
+        <li class="fl"><a href="#" onclick="return false;" class="dib">疾病专题</a></li>
+        <li class="fl"><a href="http://home.xywy.com" class="dib">病友圈</a></li>
+        <li class="fl" style="border-right:0px; width:105px;"><a href="http://wksc.xywy.com/" class="dib"">闻康商城</a></li>
+        </ul>
+    </div>
+    <div class="btm-func-ul FootList f12">
+    <ul class="w clearfix">
+    <li>
+        <dl class="department-class w clearfix">
+        <dd class="gray-a dm-c-f pl15 w960">
+        <a rel="nofollow" href="http://nk.xywy.com/" target="_blank">男科</a>
+        <a rel="nofollow" target="_blank" href="http://fk.xywy.com/">妇科</a>
+        <a rel="nofollow" target="_blank" href="http://snk.xywy.com/">肾病科</a>
+        <a rel="nofollow" target="_blank" href="http://byby.xywy.com/">不孕不育</a>
+        <a rel="nofollow" target="_blank" href="http://pfk.xywy.com/">皮肤科</a>
+        <a rel="nofollow" target="_blank" href="http://zlk.xywy.com/">肿瘤科</a>
+        <a rel="nofollow" target="_blank" href="http://sjnk.xywy.com/">神经科</a>
+        <a rel="nofollow" target="_blank" href="http://xbk.xywy.com/">性病科</a>
+        <a rel="nofollow" href="http://jsxlk.xywy.com/" target="_blank">精神心理科</a>
+        <a rel="nofollow" href="http://dxb.xywy.com/" target="_blank">癫痫</a>
+        <a rel="nofollow" target="_blank" href="http://guke.xywy.com/">骨科</a>
+        <a rel="nofollow" href="http://mrzxk.xywy.com/" target="_blank">美容整形</a>
+        <a rel="nofollow" href="http://ggtjb.xywy.com/" target="_blank">股骨头</a>
+        </dd>
+        </dl>
+		</li>
+        <li>
+        <dl class="department-class w clearfix">
+        <dd class="gray-a dm-c-f pl15 w960">
+        <a rel="nofollow" href="http://bdf.xywy.com/" target="_blank">白癜风</a><a rel="nofollow" href="http://npx.xywy.com/" target="_blank">牛皮癣</a>
+        <a rel="nofollow" href="http://jiak.xywy.com/" target="_blank">甲亢</a><a rel="nofollow" href="http://xcb.xywy.com/" target="_blank">哮喘</a>
+        <a rel="nofollow" href="http://gdwk.xywy.com/gb/" target="_blank">肝病</a><a rel="nofollow" href="http://gyh.xywy.com/" target="_blank">肝硬化</a>
+        <a rel="nofollow" target="_blank" href="http://gcwk.xywy.com/">肛肠外科</a><a rel="nofollow" href="http://rxjb.xywy.com/" target="_blank">乳腺科</a>
+        <a rel="nofollow" href="http://jyzjb.xywy.com/" target="_blank">颈椎病</a><a rel="nofollow" href="http://xzb.xywy.com/" target="_blank">心脏病</a>
+        <a rel="nofollow" href="http://az.xywy.com/" target="_blank">癌症</a><a rel="nofollow" href="http://eye.xywy.com/" target="_blank">眼科</a><a rel="nofollow" href="http://ggt.xywy.com/" target="_blank">股骨头坏死</a>
+        </dd></dl>
+		</li>
+        <li>
+        <dl class="department-class w clearfix">
+        <dd class="gray-a dm-c-f pl15 w960">
+        <a rel="nofollow" href="http://wck.xywy.com/" target="_blank">胃肠科</a><a rel="nofollow" href="http://fsb.xywy.com/ " target="_blank">风湿</a>
+        <a rel="nofollow" href="http://ebhk.xywy.com/" target="_blank">耳鼻喉科</a><a rel="nofollow" target="_blank" href="http://kqnmk.xywy.com/">口腔黏膜</a>
+        <a rel="nofollow" href="http://fck.xywy.com/" target="_blank">妇产科</a><a rel="nofollow" href="http://xgl.xywy.com/" target="_blank">血管瘤</a>
+        <a rel="nofollow" href="http://nt.xywy.com/" target="_blank">脑瘫</a><a rel="nofollow" href="http://jt.xywy.com" target="_blank">截瘫</a>
+        <a rel="nofollow" href="http://tf.xywy.com" target="_blank">痛风</a><a rel="nofollow" href="http://jsb.xywy.com" target="_blank">结石病</a>
+        <a rel="nofollow" href="http://qlx.xywy.com" target="_blank">前列腺</a><a rel="nofollow" target="_blank" href="http://neik.xywy.com/">内科</a>
+        <a rel="nofollow" target="_blank" href="http://wk.xywy.com/">外科</a>
+        </dd></dl>
+        </li>
+        <li>
+        <dl class="department-class w clearfix">
+        <dd class="gray-a dm-c-f pl15 w960">
+        <a rel="nofollow" href="http://yc.xywy.com/" target="_blank">腋臭</a>
+        <a rel="nofollow" href="http://zf.xywy.com/" target="_blank">植发</a>
+        <a rel="nofollow" href="http://tj.xywy.com/" target="_blank">胎记</a>
+        <a rel="nofollow" href="http://ek.xywy.com/" target="_blank">儿科</a><a rel="nofollow" href="http://szfyk.xywy.com/" target="_blank">生长发育</a>
+        <a rel="nofollow" href="http://xgwk.xywy.com/" target="_blank">血管外科</a>
+        <a rel="nofollow" href="http://wybb.xywy.com/" target="_blank">外阴白斑</a>
+        <a rel="nofollow" style="width:100px;" href="http://qzxjzy.xywy.com/" target="_blank">强直性脊柱炎</a><a rel="nofollow" href="http://xyk.xywy.com/" target="_blank">血液科</a>
+        <a rel="nofollow" href="http://ck.xywy.com/" target="_blank">产科</a>
+        <!--<a href="http://dx.bjhsxb.com/#xywy" target="_blank">癫痫病医院</a>-->
+        <script  type="text/javascript">
+        var beijing = new Array("北京");
+        if(__xywy_ad_city_is(beijing)){
+        document.writeln("<a rel=\"nofollow\" href=\"http:\/\/hgzl.xywy.com\/\" target=\"_blank\">肿瘤<\/a>");
+        }</script>
+        <a rel="nofollow" href="http://ykjb.xywy.com/" target="_blank">牙科</a>
+        </dd>
+        </dl>
+        </li>
+        <li>        
+        <dl class="department-class w clearfix">
+        <dd class="gray-a dm-c-f pl15 w960">
+        <a rel="nofollow" href="http://club.xywy.com/small_556.htm" target="_blank">月经不调</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_555.htm" target="_blank">卵巢囊肿</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_322.htm" target="_blank">失眠抑郁</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_316.htm" target="_blank">美白祛斑</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_347.htm" target="_blank">饮食营养</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_682.htm" target="_blank">小儿哮喘</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_318.htm" target="_blank">减肥瘦身</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_666.htm" target="_blank">口臭</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_533.htm " target="_blank">痔疮</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_313.htm" target="_blank">尖锐湿疣</a>
+        <a rel="nofollow" href="http://club.xywy.com/small_514.htm" target="_blank">手足口病</a>
+        </dd></dl>
+        </li>
+	</ul>
+    <ul class="w clearfix none"> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://club.xywy.com/big_272.htm" target="_blank">内科</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://club.xywy.com/small_281.htm" target="_blank">肾内科</a><a rel="nofollow" href="http://club.xywy.com/small_346.htm" target="_blank">肿瘤科</a><a rel="nofollow" href="http://club.xywy.com/small_646.htm" target="_blank">内分泌</a><a rel="nofollow" href="http://club.xywy.com/small_278.htm" target="_blank">风湿免疫</a><a rel="nofollow" href="http://club.xywy.com/small_280.htm" target="_blank">呼吸内科</a><a rel="nofollow" href="http://club.xywy.com/small_279.htm" target="_blank">神经内科</a><a rel="nofollow" href="http://club.xywy.com/small_277.htm" target="_blank">消化内科</a><a rel="nofollow" href="http://club.xywy.com/small_276.htm" target="_blank">脑血管病</a><a rel="nofollow" href="http://club.xywy.com/small_274.htm" target="_blank">肝胆疾病</a><a rel="nofollow" href="http://club.xywy.com/small_273.htm" target="_blank">胃肠疾病</a><a rel="nofollow" href="http://club.xywy.com/small_283.htm" target="_blank">血液内科</a><a rel="nofollow" href="http://club.xywy.com/small_282.htm" target="_blank">心血管内科</a></dd> </dl> </li> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://club.xywy.com/big_297.htm" target="_blank">外科</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://club.xywy.com/small_532.htm" target="_blank">骨病</a><a rel="nofollow" href="http://club.xywy.com/small_303.htm" target="_blank">男科</a><a rel="nofollow" href="http://club.xywy.com/small_298.htm" target="_blank">股骨头</a><a rel="nofollow" href="http://club.xywy.com/small_551.htm" target="_blank">烧烫伤</a><a rel="nofollow" href="http://club.xywy.com/small_302.htm" target="_blank">泌尿外科</a><a rel="nofollow" href="http://club.xywy.com/small_300.htm" target="_blank">心胸外科</a><a rel="nofollow" href="http://club.xywy.com/small_299.htm" target="_blank">神经外科</a><a rel="nofollow" href="http://club.xywy.com/small_301.htm" target="_blank">器官移植</a><a rel="nofollow" href="http://club.xywy.com/small_547.htm" target="_blank">颈腰椎病</a><a rel="nofollow" href="http://club.xywy.com/small_550.htm" target="_blank">普外综合</a><a rel="nofollow" href="http://club.xywy.com/small_553.htm" target="_blank">乳腺外科</a><a rel="nofollow" href="http://club.xywy.com/small_305.htm" target="_blank">性功能障碍</a><a rel="nofollow" href="http://club.xywy.com/small_304.htm" target="_blank">心血管外科</a> </dd> </dl> </li> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://club.xywy.com/big_287.htm" target="_blank">妇产科</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://club.xywy.com/small_290.htm" target="_blank">人流</a><a rel="nofollow" href="http://club.xywy.com/small_558.htm" target="_blank">痛经</a><a rel="nofollow" href="http://club.xywy.com/small_554.htm" target="_blank">宫外孕</a><a rel="nofollow" href="http://club.xywy.com/small_481.htm" target="_blank">宫颈疾病</a><a rel="nofollow" href="http://club.xywy.com/small_509.htm" target="_blank">生殖孕育</a><a rel="nofollow" href="http://club.xywy.com/small_288.htm" target="_blank">妇科综合</a><a rel="nofollow" href="http://club.xywy.com/small_289.htm" target="_blank">产科综合</a><a rel="nofollow" href="http://club.xywy.com/small_537.htm" target="_blank">女性不孕</a><a rel="nofollow" href="http://club.xywy.com/small_291.htm" target="_blank">不孕不育</a><a rel="nofollow" href="http://club.xywy.com/small_555.htm" target="_blank">卵巢囊肿</a><a rel="nofollow" href="http://club.xywy.com/small_556.htm" target="_blank">月经不调</a><a rel="nofollow" href="http://club.xywy.com/small_557.htm" target="_blank">妇科炎症</a><a rel="nofollow" href="http://club.xywy.com/small_559.htm" target="_blank">助孕技术</a> </dd> </dl> </li> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://club.xywy.com/big_332.htm" target="_blank">儿科</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://club.xywy.com/small_570.htm" target="_blank">水痘</a><a rel="nofollow" href="http://club.xywy.com/small_563.htm" target="_blank">多动症</a><a rel="nofollow" href="http://club.xywy.com/small_566.htm" target="_blank">性早熟</a><a rel="nofollow" href="http://club.xywy.com/small_682.htm" target="_blank">小儿哮喘</a><a rel="nofollow" href="http://club.xywy.com/small_333.htm" target="_blank">小儿内科</a><a rel="nofollow" href="http://club.xywy.com/small_334.htm" target="_blank">小儿外科</a><a rel="nofollow" href="http://club.xywy.com/small_336.htm" target="_blank">小儿综合</a><a rel="nofollow" href="http://club.xywy.com/small_514.htm" target="_blank">手足口病</a><a rel="nofollow" href="http://club.xywy.com/small_568.htm" target="_blank">小儿腹泻</a><a rel="nofollow" href="http://club.xywy.com/small_569.htm" target="_blank">小儿眼科</a><a rel="nofollow" href="http://club.xywy.com/small_638.htm" target="_blank">小儿脑瘫</a><a rel="nofollow" href="http://club.xywy.com/small_564.htm" target="_blank">小儿厌食症</a><a rel="nofollow" href="http://club.xywy.com/small_567.htm" target="_blank">新生儿疾病</a> </dd> </dl> </li> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://club.xywy.com/" target="_blank">其它科</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://club.xywy.com/big_292.htm" target="_blank">五官科</a><a rel="nofollow" href="http://club.xywy.com/big_326.htm" target="_blank">中医科</a><a rel="nofollow" href="http://club.xywy.com/big_321.htm" target="_blank">精神科</a><a rel="nofollow" href="http://club.xywy.com/big_319.htm" target="_blank">心理诊所</a><a rel="nofollow" href="http://club.xywy.com/small_348.htm" target="_blank">两性健康</a><a rel="nofollow" href="http://club.xywy.com/small_350.htm" target="_blank">生活起居</a><a rel="nofollow" href="http://club.xywy.com/small_347.htm" target="_blank">饮食营养</a><a rel="nofollow" href="http://club.xywy.com/big_315.htm" target="_blank">整形美容</a><a rel="nofollow" href="http://club.xywy.com/big_341.htm" target="_blank">职业病</a><a rel="nofollow" href="http://club.xywy.com/small_516.htm" target="_blank">疑难杂症</a><a rel="nofollow" href="http://club.xywy.com/big_341.htm" target="_blank">药品保健品</a><a rel="nofollow" href="http://club.xywy.com/big_306.htm" target="_blank">皮肤性病科</a><a href="http://club.xywy.com/ques_yaopin.htm" target="_blank">药品知识</a> </dd> </dl> </li> </ul> 
+    <ul class="w clearfix none"> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-beijing.htm" target="_blank">北京市</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://z.xywy.com/yiyuan-pumch.htm" target="_blank" class="w100">北京协和医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-301hospital.htm" target="_blank" class="w100">北京301医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-bysy.htm" target="_blank" class="w100">北医三院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-zryhyy.htm" target="_blank" class="w100">中日友好医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-pkuph.htm" target="_blank" class="w100">北京大学人民医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-bch.htm" target="_blank" class="w100">北京儿童医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-trhos.htm" target="_blank" class="w100">北京同仁医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-fuwaihospital.htm	" target="_blank" class="w100">北京阜外医院</a> </dd> </dl> </li> 
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-shanghai.htm" target="_blank">上海市</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://z.xywy.com/yiyuan-rjh.htm" target="_blank" class="w100">上海瑞金医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-renji.htm" target="_blank" class="w100">上海仁济医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-zshospital.htm" target="_blank" class="w100">上海中山医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-shca.htm" target="_blank" class="w100">上海肿瘤医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-huashan.htm" target="_blank" class="w100">上海华山医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-sgyy.htm" target="_blank" class="w100">上海曙光医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-sh.htm" target="_blank" class="w100">上海市中医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-9hospital.htm" target="_blank" class="w100">上海第九人民医院</a> </dd> </dl> </li> 
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-guangdong.htm" target="_blank">广东省</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://z.xywy.com/yiyuan-e5413.htm" target="_blank" class="w100">广东省人民医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-gzch.htm" target="_blank" class="w100">广州市儿童医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-gzzyy.htm" target="_blank" class="w100">广州军区总医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-syshospital.htm" target="_blank" class="w100">中山二院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-gdhtcm.htm" target="_blank" class="w100">广东省中医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-nfyy.htm" target="_blank" class="w100">广州南方医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-81ts.htm" target="_blank" class="w100">广州第一人民医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-sysucc.htm" target="_blank" class="w100">中山大学肿瘤医院</a> </dd> </dl> </li> 
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-hubei.htm" target="_blank">湖北省</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://z.xywy.com/yiyuan-tjh.htm" target="_blank" class="w100">武汉同济医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-whuh.htm" target="_blank" class="w100">武汉协和医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-rmhospital.htm" target="_blank" class="w100">湖北省人民医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-hbhtcm.htm" target="_blank" class="w100">湖北省中医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-zgwhfe.htm" target="_blank" class="w100">武汉市儿童医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-hbfy.htm" target="_blank" class="w100">湖北省妇幼保健院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-znhospital.htm" target="_blank" class="w100">武汉大学中南医院</a> <a rel="nofollow" href="http://z.xywy.com/yiyuan-whzyy.htm" target="_blank" class="w100">广州军区武汉总医</a> </dd> </dl> </li> 
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://z.xywy.com/" target="_blank">其他地区</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-shanxi.htm" target="_blank">陕西省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-sichuan.htm" target="_blank">四川省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-tianjin.htm" target="_blank">天津市</a> <a rel="nofollow" href= "http://z.xywy.com/yiyuandiqu-chongqing.htm" target="_blank">重庆市</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-jiangsu.htm" target="_blank">江苏省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-zhejiang.htm" target="_blank">浙江省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-hebei.htm" target="_blank">河北省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-henan.htm" target="_blank">河南省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-shandong.htm" target="_blank">山东省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-hunan.htm" target="_blank">湖南省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-anhui.htm" target="_blank">安徽省</a> <a rel="nofollow" href="http://z.xywy.com/yiyuandiqu-heilongjiang.htm" target="_blank">黑龙江省</a> </dd> </dl> </li> </ul> 
+    
+    <ul class="w clearfix none"> 
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://yao.xywy.com/" target="_blank">老人用药</a></dt> <dd class="gray-a dm-c-f"><a rel="nofollow" href="http://yao.xywy.com/goods/31675.htm" target="_blank">舒筋健腰丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/3143.htm" target="_blank">氧氟沙星片</a>  <a rel="nofollow" href="http://yao.xywy.com/goods/121692.htm" target="_blank">丹参片</a> <a rel="nofollow" href="http://yao.xywy.com/goods/10620.htm" target="_blank">银杏叶片</a> <a rel="nofollow" href="http://yao.xywy.com/goods/24723.htm" target="_blank">生脉饮</a> <a rel="nofollow" href="http://yao.xywy.com/goods/127087.htm" target="_blank">丹参滴丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/8734.htm" target="_blank">速效救心丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/7206.htm" target="_blank">云南白药膏</a> <a rel="nofollow" href="http://yao.xywy.com/goods/25050.htm" target="_blank">罗布麻茶</a> <a rel="nofollow" href="http://yao.xywy.com/goods/13971.htm" target="_blank">再造丸</a> <a rel="nofollow" href="http://yao.xywy.com/common/177.htm" target="_blank">替米沙坦片</a> <a rel="nofollow" href="http://yao.xywy.com/goods/5250.htm" target="_blank">芬布芬胶囊</a></dd> </dl> </li>
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://yao.xywy.com/" target="_blank">儿童用药</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://yao.xywy.com/goods/32640.htm" target="_blank">安儿宁颗粒</a>  <a rel="nofollow" href="http://yao.xywy.com/goods/11180.htm" target="_blank">乳酸菌素片</a> <a rel="nofollow" href="http://yao.xywy.com/goods/6697.htm" target="_blank">蒙脱石散</a> <a rel="nofollow" href="http://yao.xywy.com/goods/8166.htm" target="_blank">丁桂儿脐贴</a> <a rel="nofollow" href="http://yao.xywy.com/goods/130524.htm" target="_blank">保婴丹</a> <a rel="nofollow" href="http://yao.xywy.com/goods/6249.htm" target="_blank">王氏保赤丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/101391.htm" target="_blank">七星茶</a> <a rel="nofollow" href="http://yao.xywy.com/goods/3544.htm" target="_blank">阿昔洛韦片</a> <a rel="nofollow" style="width:78px;" href="http://yao.xywy.com/goods/6820.htm" target="_blank">小儿感冒颗粒</a> <a rel="nofollow" href="http://yao.xywy.com/common/893.htm" target="_blank">氧化锌软膏</a> <a rel="nofollow" href="http://yao.xywy.com/goods/7638.htm" target="_blank">肺力咳合剂</a> <a rel="nofollow" href="http://yao.xywy.com/goods/6611.htm" target="_blank">婴儿健脾散</a> </dd> </dl> </li>
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://yao.xywy.com/" target="_blank">男科用药</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://yao.xywy.com/goods/5291.htm" target="_blank">六味地黄丸</a><a rel="nofollow" href="http://yao.xywy.com/goods/6430.htm" target="_blank">金匮肾气丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/5677.htm" target="_blank">桂附地黄丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/5894.htm" target="_blank">杞菊地黄丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/7174.htm" target="_blank">右归丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/32802.htm" target="_blank">男宝胶囊</a> <a rel="nofollow" href="http://yao.xywy.com/goods/35534.htm" target="_blank">氧氟沙星片</a> <a rel="nofollow" href="http://yao.xywy.com/goods/27956.htm" target="_blank">锁阳固精丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/6956.htm" target="_blank">海狗丸</a> <a rel="nofollow" href="http://yao.xywy.com/common/4216.htm" target="_blank">益肾灵颗粒</a> <a rel="nofollow" href="http://yao.xywy.com/common/3608.htm" target="_blank">坤灵丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/8312.htm" target="_blank">虚汗停颗粒</a> </dd> </dl> </li> 
+   <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://yao.xywy.com/" target="_blank">妇科用药</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://yao.xywy.com/goods/709.htm" target="_blank">妇科千金片</a> <a rel="nofollow" href="http://yao.xywy.com/goods/5446.htm" target="_blank">乌鸡白凤丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/16269.htm" target="_blank">龙胆泻肝丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/5262.htm" target="_blank">消糜栓</a> <a rel="nofollow" href="http://yao.xywy.com/goods/294/manual.htm" target="_blank">黄体酮胶囊</a> <a rel="nofollow" href="http://yao.xywy.com/goods/6622.htm" target="_blank">妇康栓</a> <a rel="nofollow" href="http://yao.xywy.com/goods/35534.htm" target="_blank">氧氟沙星片</a> <a rel="nofollow" href="http://yao.xywy.com/goods/42536.htm" target="_blank">调经促孕丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/64874.htm" target="_blank">桂枝茯苓丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/6334.htm" target="_blank">加味逍遥丸</a> <a rel="nofollow" href="http://yao.xywy.com/goods/40447.htm" target="_blank">硝呋太尔片</a>  <a rel="nofollow" href="http://yao.xywy.com/goods/36226.htm" target="_blank">益母草颗粒</a> </dd> </dl> </li> 
+    <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://yao.xywy.com/jibing/" target="_blank">按疾病查找</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://yao.xywy.com/jibing/1603.htm">肾虚</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/77.htm">流行性感冒</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/605.htm">鼻窦炎</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/856.htm">扁桃体炎</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/140.htm">冠心病</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/470.htm">宫颈炎</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/244.htm">心绞痛</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/334.htm">高血压</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/94.htm">偏头痛</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/160.htm">前列腺炎</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/134.htm">湿疹</a> <a rel="nofollow" href="http://yao.xywy.com/jibing/1.htm">糖尿病</a> </dd> </dl> </li>
+    </ul>
+    
+    
+     <ul class="w clearfix none"> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://www.xywy.com/dzjk/nrsj/" target="_blank">男性</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://www.xywy.com/dzjk/nrsj/nxsl/lw/" target="_blank">睾丸</a> <a rel="nofollow" href="http://www.xywy.com/dzjk/nrsj/nxsl/yj/" target="_blank">阴茎</a> <a rel="nofollow" href="http://www.xywy.com/dzjk/nrsj/cjjb/nxby/" target="_blank">不育</a> <a rel="nofollow" href="http://www.xywy.com/dzjk/nrsj/cjjb/bpbj/" target="_blank">包皮</a> <a rel="nofollow" href="http://nk.xywy.com/yangwei/" target="_blank">阳痿</a> <a rel="nofollow" href="http://nk.xywy.com/zx/" target="_blank">早泄</a> <a rel="nofollow" href="http://nk.xywy.com/yijing/" target="_blank">遗精</a> <a rel="nofollow" href=" http://www.xywy.com/dzjk/nrsj/cjjb/qlx/" target="_blank">前列腺</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_3100.htm" target="_blank">小阴茎</a> <a rel="nofollow" href="http://nk.xywy.com/fugaoyan/" target="_blank">附睾炎</a> <a rel="nofollow" href="http://nk.xywy.com/xyjt/" target="_blank">性欲减退</a> <a rel="nofollow" href="http://nxby.xywy.com/" target="_blank">男性不育</a> </dd> </dl> </li> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://www.xywy.com/dzjk/nxtd/" target="_blank">女性</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://www.xywy.com/nx/fcke/fuke/ydy/" target="_blank">阴道</a> <a rel="nofollow" href="http://www.xywy.com/nx/fcke/fuke/zgjl/" target="_blank">子宫</a> <a rel="nofollow" href="http://www.xywy.com/nx/fcke/fuke/pqy/" target="_blank">盆腔</a> <a rel="nofollow" href="http://www.xywy.com/nx/fcke/fuke/lcjb/index.htm" target="_blank">卵巢</a> <a rel="nofollow" href="http://www.xywy.com/dzjk/nxtd/cjjb/rfzt" target="_blank">乳房</a> <a rel="nofollow" href="http://www.xywy.com/dzjk/nxtd/cjjb/yjzt/" target="_blank">月经</a> <a rel="nofollow" href="http://www.xywy.com/nx/fcke/cke/lc/" target="_blank">避孕</a> <a rel="nofollow" href="http://fk.xywy.com/gjy/" target="_blank">宫颈炎</a> <a rel="nofollow" href="http://fk.xywy.com/fjy/" target="_blank">附件炎</a> <a rel="nofollow" href="http://www.xywy.com/nx/fcke/fuke/fkjqbj/index.htm" target="_blank">经期保健</a>			<a rel="nofollow" href="http://fk.xywy.com/zgjl/" target="_blank">子宫肌瘤</a> <a rel="nofollow" href="http://fk.xywy.com/gjml" target="_blank">宫颈糜烂</a> </dd> </dl> </li> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://zx.xywy.com/" target="_blank">整形</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://zx.xywy.com/longxiong/" target="_blank">丰胸</a> <a rel="nofollow" href="http://zx.xywy.com/longbi/" target="_blank">隆鼻</a> <a rel="nofollow" href="http://zx.xywy.com/jiguang/" target="_blank">激光</a> <a rel="nofollow" href="http://zx.xywy.com/tuomao/" target="_blank">脱毛</a> <a rel="nofollow" href="http://zx.xywy.com/quzhi/" target="_blank">去痣</a> <a rel="nofollow" href="http://zx.xywy.com/zxjs/czsx/" target="_blank">抽脂</a> <a rel="nofollow" href="http://zx.xywy.com/shuangyanpi/" target="_blank">双眼皮</a> <a rel="nofollow" href="http://zx.xywy.com/shoulian/" target="_blank">瘦脸针</a>			<a rel="nofollow" href="http://zx.xywy.com/kaiyanjiao/" target="_blank">开眼角</a> <a rel="nofollow" href="http://zx.xywy.com/quyandai/" target="_blank">去眼袋</a> <a rel="nofollow" href="http://zx.xywy.com/chuzhou/" target="_blank">面部除皱</a> <a rel="nofollow" href="http://zx.xywy.com/chunvmoxiufu/" target="_blank">处女膜修复</a> </dd> </dl> </li>
+     <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://www.xywy.com/mrss2/" target="_blank">美容</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/fsqb/qb/" target="_blank">祛斑</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/meijia/" target="_blank">美甲</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/kyqd/qd/" target="_blank">祛痘 </a> <a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/mbbs/mb/" target="_blank">美白</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/cz/" target="_blank">彩妆</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/fsqb/fs/" target="_blank">防晒</a>	<a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/mbbs/bs/" target="_blank">保湿</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/kyqd/ky/" target="_blank">控油</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/ssmr/mrcs/" target="_blank">护肤品</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/qtss/fxmr/" target="_blank">丰胸美乳</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/qtss/pdyy/" target="_blank">排毒养颜</a> <a rel="nofollow" href="http://www.xywy.com/mrss2/jkhf/nsmr/" target="_blank">男士美容</a> </dd> </dl> </li> <li> <dl class="department-class w clearfix"> <dt class="department-class-dt gray-a"><a rel="nofollow" href="http://jianfei.xywy.com/" target="_blank">减肥</a></dt> <dd class="gray-a dm-c-f"> <a rel="nofollow" href="http://jianfei.xywy.com/shoushen/shoutui/" target="_blank">瘦腿</a> <a rel="nofollow" href="http://jianfei.xywy.com/shoushen/shoulian/" target="_blank">瘦脸</a> <a rel="nofollow" href="http://jianfei.xywy.com/shoushen/shouyao/" target="_blank">瘦腰</a> <a rel="nofollow" href="http://jianfei.xywy.com/yao/" target="_blank">减肥药</a> <a rel="nofollow" href="http://jianfei.xywy.com/yao/jianfeicha/" target="_blank">减肥茶</a> <a rel="nofollow" href="http://jianfei.xywy.com/yao/zuoxuanroujian/" target="_blank">左旋肉碱</a> <a rel="nofollow" href="http://jianfei.xywy.com/yujia/" target="_blank">减肥瑜伽</a> <a rel="nofollow" href="http://jianfei.xywy.com/jfway/rhjf/" target="_blank">产后减肥</a>			<a rel="nofollow" href="http://jianfei.xywy.com/zhongyi/zhenjiu/" target="_blank">针灸减肥</a> <a rel="nofollow" href="http://jianfei.xywy.com/zhongyi/anmo/" target="_blank">按摩减肥</a> <a rel="nofollow" href="http://jianfei.xywy.com/zhongyi/dianxue/" target="_blank">点穴减肥</a> <a rel="nofollow" href="http://jianfei.xywy.com/zhongyi/" target="_blank">中药减肥</a> </dd> </dl> </li>
+    </ul> 
+    
+    
+    <ul class="w clearfix none">
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://my.xywy.com/" target="_blank">名院库</a> <a rel="nofollow" href="http://ys.xywy.com/" target="_blank">名医库</a> <a rel="nofollow" href="http://ypk.xywy.com/" target="_blank">药品库</a> <a rel="nofollow" href="http://home.xywy.com/" target="_blank">病友圈</a> <a rel="nofollow" href="http://zhao.xywy.com/" target="_blank">健康搜索</a> <a rel="nofollow" href="http://www.xywy.com/cspd/" target="_blank">健康测试</a> <a rel="nofollow" href="http://doc.xywy.com/" target="_blank">健康字典</a> <a rel="nofollow" href="http://online.xywy.com/" target="_blank">问答知识网</a> <a rel="nofollow" href="http://topic.xywy.com/" target="_blank">健康档案</a> <a rel="nofollow" href="http://dxbk.xywy.com/" target="_blank">癫痫百科</a> <a rel="nofollow" href="http://nkbk.xywy.com/" target="_blank">男科百科</a> <a rel="nofollow" href="http://hao123.xywy.com/mylf.htm" target="_blank">名医疗法</a> <a rel="nofollow" href="http://www.xywy.com/topic/" target="_blank">小编推荐</a>
+     </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://snk.xywy.com/" target="_blank">肾病</a> <a rel="nofollow" href="http://nk.xywy.com/" target="_blank">男科</a> <a rel="nofollow" href="http://fk.xywy.com/" target="_blank">妇科</a> <a rel="nofollow" href="http://ek.xywy.com" target="_blank">儿科</a> <a rel="nofollow" href="http://nk.xywy.com/zx/" target="_blank">早泄</a> <a rel="nofollow" href="http://dxb.xywy.com" target="_blank">癫痫病</a> <a rel="nofollow" href="http://pfxbk.xywy.com/" target="_blank">皮肤病</a> <a rel="nofollow" href="http://club.xywy.com/small_342.htm" target="_blank">妇儿用药</a> <a rel="nofollow" href="http://online.xywy.com/html/waikewenda/index.html" target="_blank">外科问答</a> <a rel="nofollow" href="http://online.xywy.com/html/changjianjibingwenti/index.html" target="_blank">疾病问答</a> <a rel="nofollow" href="http://club.xywy.com/small_516.htm" target="_blank">热点问题</a> <a rel="nofollow" href="http://news.xywy.com/news/zh/20100806/692454.html" target="_blank">展会信息</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://online.xywy.com/xiaochuan/" target="_blank">哮喘</a> <a rel="nofollow" href="http://online.xywy.com/zhichuang/" target="_blank">痔疮</a> <a rel="nofollow" href="http://online.xywy.com/feiai/" target="_blank">肺癌</a> <a rel="nofollow" href="http://online.xywy.com/yigan/" target="_blank">乙肝</a> <a rel="nofollow" href="http://online.xywy.com/maonangyan/" target="_blank">毛囊炎</a> <a rel="nofollow" href="http://online.xywy.com/baineizhang/" target="_blank">白内障</a>
+    <a rel="nofollow" href="http://zt.xywy.com/pangaoshou/" target="_blank">潘高寿</a> <a rel="nofollow" href="http://gyh.xywy.com/" target="_blank">肝硬化</a> <a rel="nofollow" href="http://club.xywy.com/zjzx/" target="_blank">专家在线</a> <a rel="nofollow" href="http://my.xywy.com/yiyuanwenzhang.html" target="_blank">网上医院</a>
+    <a rel="nofollow" href="http://online.xywy.com/gongjingmilan/" target="_blank">宫颈糜烂</a> <a rel="nofollow" href="http://online.xywy.com/shengongnengbuquan/" target="_blank">肾功能不全</a> <a rel="nofollow" href="http://online.xywy.com/jinshi/" target="_blank">近视</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+     <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://jbzt.xywy.com/feibing/" target="_blank">肺病</a> <a rel="nofollow" href="http://online.xywy.com/shenyan/" target="_blank">肾炎</a> <a rel="nofollow" href="http://online.xywy.com/qingguangyan/" target="_blank">青光眼</a> <a rel="nofollow" href="http://online.xywy.com/shidaoai/" target="_blank">食道癌</a> <a rel="nofollow" href="http://online.xywy.com/yinxiebing/" target="_blank">银屑病</a> <a rel="nofollow" href="http://online.xywy.com/shenshuaijie/" target="_blank">肾衰竭</a> <a rel="nofollow" href="http://online.xywy.com/niaoduzheng/" target="_blank">尿毒症</a> <a rel="nofollow" href="http://online.xywy.com/shenbingzonghezheng/" target="_blank">肾病综合症</a> <a rel="nofollow" href="http://online.xywy.com/ganglie/" target="_blank">肛裂</a> <a rel="nofollow" href="http://online.xywy.com/gangchang/" target="_blank">肛肠</a> <a rel="nofollow" href="http://online.xywy.com/ganglou/" target="_blank">肛瘘</a> <a rel="nofollow" href="http://online.xywy.com/shanqi/" target="_blank">疝气</a> <a rel="nofollow" href="http://online.xywy.com/baixuebing/" target="_blank">白血病</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+     <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://online.xywy.com/zhichangai/" target="_blank">直肠癌</a> <a rel="nofollow" href="http://online.xywy.com/jiechangai/" target="_blank">结肠癌</a> <a rel="nofollow" href="http://online.xywy.com/ruxianai/" target="_blank">乳腺癌</a> <a rel="nofollow" href="http://online.xywy.com/baidianfeng/" target="_blank">白癜风</a> <a rel="nofollow" href="http://online.xywy.com/gaoxueya/" target="_blank">高血压</a> <a rel="nofollow" href="http://online.xywy.com/xunmazhen/" target="_blank">荨麻疹</a> <a rel="nofollow" href="http://online.xywy.com/huangbanbingbian/" target="_blank">黄斑病变</a> <a rel="nofollow" href="http://qlx.xywy.com/" target="_blank">前列腺</a> <a rel="nofollow" href="http://jt.xywy.com" target="_blank">截瘫</a> <a rel="nofollow" href="http://xzb.xywy.com" target="_blank">心脏病</a> <a rel="nofollow" href="http://byby.xywy.com/nvxby/" target="_blank">女性不孕</a> <a rel="nofollow" href="http://rxjb.xywy.com/" target="_blank">乳腺病</a> <a rel="nofollow" href="http://npx.xywy.com" target="_blank">牛皮癣</a> </dd>
+    </dl>
+    </li>
+    </ul>
+    <ul class="w clearfix none">
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://club.xywy.com/small_650.htm" target="_blank">斑秃</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_2800.htm" target="_blank">鼻窦炎</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_2784.htm" target="_blank">鼻息肉</a> <a rel="nofollow" href="http://zzk.xywy.com/67_zhishi.html" target="_blank">产后便血</a> <a rel="nofollow" href="http://jbzt.xywy.com/feijiehe/" target="_blank">肺结核</a> <a rel="nofollow" href="http://online.xywy.com/fukeyanzheng/" target="_blank">妇科炎症</a> <a rel="nofollow" href="http://zt.xywy.com/pangaoshou/pipagao/" target="_blank">蜜炼枇杷膏</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_989.htm" target="_blank">高血脂</a> <a rel="nofollow" href="http://online.xywy.com/gongwaiyun/" target="_blank">宫外孕</a> <a rel="nofollow" href="http://ggt.xywy.com" target="_blank">股骨头坏死</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_174.htm" target="_blank">冠心病</a> <a rel="nofollow" href="http://snk.xywy.com/clxsb" target="_blank">红斑狼疮</a> <a rel="nofollow" href="http://jiak.xywy.com/" target="_blank">甲亢</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://online.xywy.com/jiazhuangxianjiejie/" target="_blank">甲状腺结节</a> <a rel="nofollow" href="http://online.xywy.com/shiyoupaozhen/" target="_blank">尖锐湿疣</a> <a rel="nofollow" href="http://guke.xywy.com/jianzy" target="_blank">肩周炎</a> <a rel="nofollow" href="http://online.xywy.com/jingyaozhuibing/" target="_blank">颈腰椎病</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_2846.htm" target="_blank">酒渣鼻</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_2986.htm" target="_blank">口腔溃疡</a> <a rel="nofollow" href="http://fk.xywy.com/lczs/" target="_blank">卵巢早衰</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_1729.htm" target="_blank">内痔</a> <a rel="nofollow" href="http://fk.xywy.com/pqy/" target="_blank">盆腔炎</a> <a rel="nofollow" href="http://online.xywy.com/piyanshizhen/" target="_blank">皮炎湿疹</a> <a rel="nofollow" href="http://qzxjzy.xywy.com/cs/" target="_blank">强直脊柱炎</a> <a rel="nofollow" href="http://zzk.xywy.com/3225_gaishu.html" target="_blank">色素斑</a> <a rel="nofollow" href="http://snk.xywy.com/sjsi" target="_blank">肾积水</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://club.xywy.com/htm/3555/1777367.htm" target="_blank">肾囊肿</a> <a rel="nofollow" href="http://online.xywy.com/shenweisuo/swscs/" target="_blank">肾萎缩</a> <a rel="nofollow" href="http://online.xywy.com/shimian/" target="_blank">失眠抑郁</a> <a rel="nofollow" href="http://tnb.xywy.com/" target="_blank">糖尿病</a> <a rel="nofollow" href="http://tf.xywy.com/" target="_blank">痛风</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_3803.htm" target="_blank">脱发</a> <a rel="nofollow" href="http://wybb.xywy.com/" target="_blank">外阴白斑</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_1734.htm" target="_blank">外痔</a> <a rel="nofollow" href="http://online.xywy.com/weiai/" target="_blank">胃癌</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_624.htm" target="_blank">胃病</a> <a rel="nofollow" href="http://online.xywy.com/renliu/" target="_blank">人流</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_7288.htm" target="_blank">小儿便秘</a> <a rel="nofollow" href="http://jib.xywy.com/il_sii_242.htm" target="_blank">心肌梗塞</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+     <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://xgl.xywy.com/" target="_blank">血管瘤</a> <a rel="nofollow" href="http://online.xywy.com/yanke/" target="_blank">眼科</a> <a rel="nofollow" href="http://www.xywy.com/jbdq/ysz/" target="_blank">厌食症</a> <a rel="nofollow" href="http://zt.xywy.com/pangaoshou/pipat/" target="_blank">川贝枇杷糖</a> <a rel="nofollow" href="http://online.xywy.com/yulinbing/" target="_blank">鱼鳞病</a> <a rel="nofollow" href="http://online.xywy.com/zhifa/" target="_blank">植发</a> <a rel="nofollow" href="http://online.xywy.com/zhongfeng/" target="_blank">中风</a> <a rel="nofollow" href="http://zlk.xywy.com" target="_blank">肿瘤</a> <a rel="nofollow" href="http://fk.xywy.com/zgjl/" target="_blank">子宫肌瘤</a> <a rel="nofollow" href="http://fk.xywy.com/zgnmy/" target="_blank">子宫内膜炎</a> <a rel="nofollow" href="http://online.xywy.com/zigongneimoyiwei/" target="_blank">子宫膜异位</a> <a rel="nofollow" href="http://bdf.xywy.com" target="_blank">白癜风</a> <a rel="nofollow" href="http://gdwk.xywy.com" target="_blank">肝病</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+     <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://online.xywy.com/ertongchoudongzheng/" target="_blank">儿童抽动症</a> <a rel="nofollow" href="http://online.xywy.com/ertongduodongzheng" target="_blank">儿童多动症</a> <a rel="nofollow" href="http://online.xywy.com/guanjieyan/" target="_blank">关节炎</a> <a rel="nofollow" href="http://online.xywy.com/jiazhuangxian/" target="_blank">甲状腺</a> <a rel="nofollow" href="http://online.xywy.com/jingshenbing/" target="_blank">精神病</a> <a rel="nofollow" href="http://online.xywy.com/leifengshi/" target="_blank">类风湿</a> <a rel="nofollow" href="http://online.xywy.com/miniaowaike/" target="_blank">泌尿外科</a> <a rel="nofollow" href="http://online.xywy.com/naogengse/" target="_blank">脑梗塞</a> <a rel="nofollow" href="http://online.xywy.com/naotan/" target="_blank">脑瘫</a> <a rel="nofollow" href="http://online.xywy.com/naoweisuo/" target="_blank">脑萎缩</a> <a rel="nofollow" href="http://online.xywy.com/pajinsen/" target="_blank">帕金森</a> <a rel="nofollow" href="http://online.xywy.com/shuluanguanduse/" target="_blank">输卵管堵塞</a> <a rel="nofollow" href="http://online.xywy.com/yiliaozhengxing/" target="_blank">医疗整形</a></dd>
+    </dl>
+    </li>
+    </ul>
+    
+    <ul class="w clearfix none">
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://home.xywy.com/gaoxueya/" target="_blank" style="width:86px;">高血压</a> <a rel="nofollow" href="http://home.xywy.com/yuejingbutiao/" target="_blank" style="width:86px;">月经不调</a> <a rel="nofollow" href="http://home.xywy.com/baidianfeng/" target="_blank" style="width:86px;">白癜风</a> <a rel="nofollow" href="http://home.xywy.com/zaoxiequan/" target="_blank" style="width:86px;">早泄</a> <a rel="nofollow" href="http://home.xywy.com/yangwei/" target="_blank" style="width:86px;">阳痿</a> <a rel="nofollow" href="http://home.xywy.com/xunmazhen/" target="_blank" style="width:86px;">荨麻疹</a> <a rel="nofollow" href="http://home.xywy.com/szqpz/" target="_blank" style="width:86px;">生殖器疱疹</a> <a rel="nofollow" href="http://home.xywy.com/shouzukoubing/" target="_blank" style="width:86px;">手足口病</a><a rel="nofollow" href="http://home.xywy.com/tuofa/" target="_blank" style="width:86px;">脱发</a><a rel="nofollow" href="http://home.xywy.com/bianmi/" target="_blank" style="width:86px;">便秘</a></dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"><a rel="nofollow" href="http://home.xywy.com/muying/" target="_blank" style="width:86px;">母婴</a> <a rel="nofollow" href="http://home.xywy.com/yunqianqi/" target="_blank" style="width:86px;">孕前期</a> <a rel="nofollow" href="http://home.xywy.com/fenmianqi/" target="_blank" style="width:86px;">分娩期</a> <a rel="nofollow" href="http://home.xywy.com/youeryinshi/" target="_blank" style="width:86px;">幼儿饮食</a> <a rel="nofollow" href="http://home.xywy.com/youerjiaoyu/" target="_blank"  style="width:86px;">幼儿教育</a> <a href="http://home.xywy.com/tangniaobing/" rel="nofollow" target="_blank">糖尿病</a> <a rel="nofollow" href="http://home.xywy.com/yigan/" target="_blank" style="width:40px;">乙肝</a> <a rel="nofollow" href="http://home.xywy.com/ganyinghua/" target="_blank">肝硬化</a> <a rel="nofollow" href="http://home.xywy.com/yigan/" target="_blank">脂肪肝</a> <a rel="nofollow" href="http://home.xywy.com/weibing/" target="_blank" style="width:40px;">胃病</a> <a rel="nofollow" href="http://home.xywy.com/xinzangbing/" target="_blank">冠心病</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+    <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://home.xywy.com/xinzangbing/" target="_blank" style="width:86px;">风湿性心脏病</a> <a rel="nofollow" href="http://home.xywy.com/xinzangbing/" target="_blank">心律失常</a> <a rel="nofollow" href="http://home.xywy.com/xinzangbing/" target="_blank">心肌病</a> <a rel="nofollow" href="http://home.xywy.com/gaoxueya/" target="_blank">高血压</a> <a rel="nofollow" href="http://home.xywy.com/manxingshenyan/" target="_blank">慢性肾炎</a> <a rel="nofollow" href="http://home.xywy.com/manxingshenyan/" target="_blank" style="width:75px;">肾病综合症</a> <a rel="nofollow" href="http://home.xywy.com/dianxian/" target="_blank" style="width:55px;">癫痫</a> <a rel="nofollow" href="http://home.xywy.com/guanjieyan/" target="_blank">风湿病</a> <a rel="nofollow" href="http://home.xywy.com/hongbanlangchuang/" target="_blank" style="width:100px;">系统性红斑狼疮</a> <a rel="nofollow" href="http://home.xywy.com/tongfeng/" target="_blank" style="width:40px;">痛风</a> <a rel="nofollow" href="http://home.xywy.com/ggths/" target="_blank">股骨头坏死</a> <a rel="nofollow" href="http://home.xywy.com/yzjptc/" target="_blank" style="width:80px;">腰椎间盘突出</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+     <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://home.xywy.com/guanjieyan/" target="_blank">关节炎</a> <a rel="nofollow" href="http://home.xywy.com/pinxue/" target="_blank" style="width:55px;">贫血</a> <a rel="nofollow" href="http://home.xywy.com/qianliexian/" target="_blank">前列腺</a> <a rel="nofollow" href="http://home.xywy.com/pajinseng/" target="_blank">帕金森氏病</a> <a rel="nofollow" href="http://home.xywy.com/ebhjb/" target="_blank">耳鼻喉疾病</a> <a rel="nofollow" href="http://home.xywy.com/shimianyiyu/" target="_blank" style="width:40px;">失眠</a> <a rel="nofollow" href="http://home.xywy.com/yiyuzheng/" target="_blank" style="width:40px;">抑郁</a> <a rel="nofollow" href="http://home.xywy.com/buyunbuyu/" target="_blank">不孕不育</a> <a rel="nofollow" href="http://home.xywy.com/gongjingmilan/" target="_blank">宫颈糜烂</a> <a rel="nofollow" href="http://home.xywy.com/fenmianqi/" target="_blank" style="width:40px;">分娩</a> <a rel="nofollow" href="http://home.xywy.com/jingzhuibing/" target="_blank" style="width:45px;">颈椎病</a> <a rel="nofollow" href="http://home.xywy.com/jianfei/" target="_blank" style="width:30px;">肥胖</a> <a rel="nofollow" href="http://home.xywy.com/youerjiaoyu/" target="_blank" style="width:80px;">幼儿教育</a> <a rel="nofollow" href="http://home.xywy.com/niupixuan/" target="_blank">牛皮癣</a> </dd>
+    </dl>
+    </li>
+    <li>
+    <dl class="department-class w clearfix">
+     <dd class="gray-a dm-c-f pl15 w960"> <a rel="nofollow" href="http://home.xywy.com/xiaochuan/" target="_blank">支气管哮喘</a> <a rel="nofollow" href="http://home.xywy.com/baineizhang/" target="_blank">白内障</a> <a rel="nofollow" href="http://home.xywy.com/cuochuang/" target="_blank" style="width:40px;">痤疮</a> <a rel="nofollow" href="http://home.xywy.com/aizibing/" target="_blank">艾滋病</a> <a rel="nofollow" href="http://home.xywy.com/jianruishiyou/" target="_blank">尖锐湿疣</a> <a rel="nofollow" href="http://home.xywy.com/yindaoyan/" target="_blank">阴道炎</a> <a rel="nofollow" href="http://home.xywy.com/miantan/" target="_blank" style="width:40px;">面瘫</a> <a rel="nofollow" href="http://home.xywy.com/ruxianjibing/" target="_blank">乳腺疾病</a> <a rel="nofollow" href="http://home.xywy.com/tongjing/" target="_blank" style="width:40px;">痛经</a> <a rel="nofollow" href="http://home.xywy.com/shirezhi/" target="_blank">湿热质养生</a> <a rel="nofollow" href="http://home.xywy.com/yinxu/" target="_blank">阴虚养生</a> <a rel="nofollow" href="http://home.xywy.com/yangxuzhi/" target="_blank">阳虚养生</a> </dd>
+    </dl>
+    </li>
+    </ul>
+    
+    <ul class="w clearfix wkmak none"> 
+        <li>
+            <dl class="department-class w clearfix">
+                <dt class="department-class-dt gray-a">
+                    <a rel="nofollow" href="http://wksc.xywy.com/list/zhongxiyaopin.html?from=navi-home" target="_blank">中西药品</a>
+                </dt>
+                <dd class="gray-a dm-c-f">
+                <a rel="nofollow" href="http://wksc.xywy.com/list/ganmaoliugan.html?from=navi-home" target="_blank">感冒/流感</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/kangjunxiaoyan.html?from=navi-home" target="_blank">抗菌消炎</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/jierezhentong.html?from=navi-home" target="_blank">解热镇痛</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/xiaohuabuliang.html?from=navi-home" target="_blank">消化不良</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/yuejingbudiao.html?from=navi-home" target="_blank">月经不调</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/fukeyanzheng.html?from=navi-home" target="_blank">妇科炎症</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/xiaoerfuxie.html?from=navi-home" target="_blank">小儿腹泻</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/kangyiyu.html?from=navi-home" target="_blank">抗焦虑</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/tangniaobing.html?from=navi-home" target="_blank">糖尿病</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/weishengsu2.html?from=navi-home" target="_blank">维生素</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/buqiyangxue.html?from=navi-home" target="_blank">补气养血</a>
+            </dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="department-class w clearfix">
+                <dt class="department-class-dt gray-a">
+                    <a rel="nofollow" href="http://wksc.xywy.com/list/muyingzhuanxiang.html?from=navi-home" target="_blank">母婴专享</a>
+                </dt>
+                <dd class="gray-a dm-c-f">
+               	<a rel="nofollow" href="http://wksc.xywy.com/list/chengrennaifen.html?from=navi-home" target="_blank">成人奶粉</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/yangnaifen.html?from=navi-home" target="_blank">羊奶粉</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/bingganfushi.html?from=navi-home" target="_blank">饼干辅食</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/yunqiyingyang.html?from=navi-home" target="_blank">孕期营养</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/pinpainiaoku.html?from=navi-home" target="_blank">品牌尿裤</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/huchungao.html?from=navi-home" target="_blank">护唇膏</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/yunfuzhuang.html?from=navi-home" target="_blank">孕妇装</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/yingerfuzhuang.html?from=navi-home" target="_blank">婴儿服装</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/xiyifenzao.html?from=navi-home" target="_blank">洗衣粉/皂</a>
+				<a rel="nofollow" href="http://wksc.xywy.com/list/weitamingbuchong.html?from=navi-home" target="_blank">维他命补充</a>
+                <a rel="nofollow" href="http://wksc.xywy.com/list/chanhousushen.html?from=navi-home" target="_blank">产后塑身</a>
+            </dd>
+            </dl> 
+        </li> 
+        <li>
+            <dl class="department-class w clearfix">
+                <dt class="department-class-dt gray-a">
+                    <a rel="nofollow" href="http://wksc.xywy.com/list/yiliaoqixie.html?from=navi-home" target="_blank">医疗器械</a>
+                </dt>
+                 <dd class="gray-a dm-c-f">
+					<a rel="nofollow" href="http://wksc.xywy.com/list/xueyaji.html?from=navi-home" target="_blank">血压计</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/lunyi.html?from=navi-home" target="_blank">轮椅</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/guaizhang.html?from=navi-home" target="_blank">拐杖</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/kouzhao.html?from=navi-home" target="_blank">口罩</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/xiaoduzhixue.html?from=navi-home" target="_blank">消毒止血</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/caiseyinxingyanjing.html?from=navi-home" target="_blank">彩色隐形眼镜</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/bengdaishabu.html?from=navi-home" target="_blank">绷带纱布</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zhutingqi.html?from=navi-home" target="_blank">助听器</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zhenjiuaijiu.html?from=navi-home" target="_blank">针灸艾灸</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/baguanqiju.html?from=navi-home" target="_blank">拔罐器具</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/xuetangyi.html?from=navi-home" target="_blank">血糖仪</a>
+            </dd>
+            </dl>
+        </li> 
+        <li>
+            <dl class="department-class w clearfix">
+                <dt class="department-class-dt gray-a">
+                    <a rel="nofollow" href="http://wksc.xywy.com/list/yangshengbaojian.html?from=navi-home" target="_blank">营养保健</a>
+                </dt> 
+                <dd class="gray-a dm-c-f"> 
+					<a rel="nofollow" href="http://wksc.xywy.com/list/dongchongxiacao.html?from=navi-home" target="_blank">冬虫夏草</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/luronglubian.html?from=navi-home" target="_blank">鹿茸鹿鞭</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/bugailei.html?from=navi-home" target="_blank">补钙</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/qingyanrunhou.html?from=navi-home" target="_blank">清咽润喉</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/diaojiesangao.html?from=navi-home" target="_blank">调节三高</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/danbaizhi.html?from=navi-homee" target="_blank">蛋白粉</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/tigaomianyili.html?from=navi-home" target="_blank">提高免疫力</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zhumiananshen.html?from=navi-home" target="_blank">助眠安神</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/nanxingbaojian.html?from=navi-home" target="_blank">男性保健</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/nvxingbaojian.html?from=navi-home" target="_blank">女性保健</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zhonglaonianbaojian.html?from=navi-home" target="_blank">中老年保健</a>
+            	</dd> 
+            </dl>
+        </li> 
+        <li> 
+            <dl class="department-class w clearfix"> 
+                <dt class="department-class-dt gray-a">
+                    <a rel="nofollow" href="http://wksc.xywy.com/list/xingfushenghuo.html?from=navi-home" target="_blank">计生用品</a>
+                </dt>
+                <dd class="gray-a dm-c-f"> 
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zuhetaozhuang.html?from=navi-home" target="_blank">组合套装</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zaoyunshizhi.html?from=navi-home" target="_blank">早孕试纸</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zhuanqu.html?from=navi-home" target="_blank">SM专区</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/qingqushuiyi.html?from=navi-home" target="_blank">情趣睡衣</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/fangzhenwawa.html?from=navi-home" target="_blank">仿真娃娃</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/jiqingtaocan.html?from=navi-home" target="_blank">激情套餐</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/nvyongbiyun.html?from=navi-home" target="_blank">女用避孕</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zhuboyanshi.html?from=navi-home" target="_blank">助勃延时</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/suoyinhuyin.html?from=navi-home" target="_blank">缩阴护阴</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/chaobaotaotao.html?from=navi-home" target="_blank">超薄套套</a>
+					<a rel="nofollow" href="http://wksc.xywy.com/list/zhifuyouhuo.html?from=navi-home" target="_blank">制服诱惑</a>
+            </dd>
+            </dl>
+        </li> 
+    </ul>
+    
+    <!-- club -->
+    </div>
+</div>
+<script type="text/javascript">
+$('.FootMenu li').mouseover(function(){
+	$('.FootMenu li').removeClass('on');
+	$(this).addClass('on');
+	var i = $(this).index();
+	$('.FootList ul').hide();
+	$('.FootList ul').eq(i).show();
+});
+</script>   
+<script type="text/javascript">
+__sendVisitOdm("pc_club_list", "list:jib+");
+</script>
+
+
+<style>
+*{padding:0; margin:0; border:0;}
+body{_background:url(about:blank) fixed;}
+#club_v2_left_float a{text-decoration:none;}
+#club_v2_left_float .prevent{width:191px; height:221px;left:0; bottom:200px;position:fixed; _position:absolute;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight / 2 - this.offsetHeight / 2));z-index:10;  }
+#club_v2_left_float .prevent .Consultation{width:190px;display:inline;}
+#club_v2_left_float .prevent .Close{ width:190px; height:32px; background:url(http://gg.xywy.com/newclubkp/xt/images/bga_04.gif) no-repeat;}
+#club_v2_left_float .prevent .Close_one{ margin-top:8px; padding-left:42px;}
+#club_v2_left_float .prevent .Close_two{ margin-top:5px; margin-right:9px;_margin-right:5px;}
+#club_v2_left_float .prevent .Consul{width:178px; border:1px solid #e0e0e0;border-top:none; padding:9px 5px 0px 5px;background-color: #E1F4F9;}
+#club_v2_left_float .prevent .Consul_one{float:left;width:100%; border-bottom:1px dashed #e5e5e5;margin-top:8px;height:76px;}
+#club_v2_left_float .prevent .Consul_pic{width:56px;}
+#club_v2_left_float .prevent .Consul_two{width:115px;}
+#club_v2_left_float .prevent .Consul_three{float:left;width:100%; margin-top:10px;padding-bottom:8px;}
+#club_v2_left_float .prevent .gr{margin-bottom:8px;}
+#club_v2_left_float .prevent .hu a{color:#999999;}
+#club_v2_left_float .prevent .he a{color:#535353;}
+#club_v2_left_float .prevent .f144{ font-size:14px;}
+#club_v2_left_float .prevent .f122{ font-size:12px;}
+#club_v2_left_float .prevent .clear:after {visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#club_v2_left_float .prevent .fll{ float:left;}
+#club_v2_left_float .prevent .frr{ float:right;}
+#club_v2_left_float .prevent .wan{ width:116px;}
+#club_v2_left_float .prevent .mrr10{ margin-right:10px;}
+#club_v2_left_float .prevent .pt22{ padding-top:2px;}
+#club_v2_left_float .prevent .pbb10{ padding-bottom:10px;}
+#club_v2_left_float .prevent .mbb5{ margin-bottom:5px;}
+#club_v2_left_float .prevent .mrr5{ margin-right:5px;}
+#club_v2_left_float .prevent .zhuzhi a{ color:#000;}
+#club_v2_left_float .prevent .bs{ color:#FFF;}
+#club_v2_left_float .smallpanel{display:none; position:fixed;bottom:200px;left:0;width:39px; height:116px; _position:absolute;_top:expression(eval(document.documentElement.scrollTop + document.documentElement.clientHeight / 2));}
+</style>
+<script>
+	jQuery(function(){
+		jQuery('.Close_two').click(function(){
+			jQuery('.prevent').hide();
+			jQuery('#smallpanel').show();
+		});	
+		
+		jQuery('#topS').click(function(){
+			jQuery(this).parent().hide();
+			jQuery('.prevent').show();
+		});	
+		
+		jQuery('#closeS').click(function(){
+			jQuery(this).parent().hide();
+		});
+	})
+</script>
+<div id="club_v2_left_float">
+<div class="prevent">
+    <div class="Consultation">
+        <div class="Close clear">
+            <p class="f144 white fll Close_one bs">专家在线免费咨询</p>
+            <p class="frr Close_two">
+                <a rel="nofollow" class="ycsd" href="javascript:void(0);"><img width="9" height="9" src="http://gg.xywy.com/newclubkp/xt/images/xx_03.gif"></a>
+            </p>
+        </div>
+        <div class="Consul clear">
+		        <!-- 全国||肌无力  -->
+            <div class="Consul_one pbb10">
+                <div class="fll mrr5 Consul_pic">
+                    <a rel="nofollow" target="_blank" href="http://kf.yywlsj.com/xywy/symy.html" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3652,1);"><img width="56" height="71" src="http://gg.xywy.com/newclubkp/wl/tzzctc/dsy56_71.jpg"></a>
+                </div>
+                <div class="fll Consul_two pt22">
+                    <div class="clear gr wan">
+                        <p class="fll f144 he"><a rel="nofollow" target="_blank" href="http://kf.yywlsj.com/xywy/symy.html" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3652,1);">杜淑云</a></p>
+                        <span class="frr">
+                            <a rel="nofollow" target="_blank" href="http://kf.yywlsj.com/xywy/symy.html" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3652,1);"><img width="60" height="20" src="http://gg.xywy.com/newclubkp/xt/images/lbg_03.gif"></a>
+                        </span>
+                    </div>
+                    <p class="f122 mbb5 zhuzhi"><a rel="nofollow" target="_blank" href="http://kf.yywlsj.com/xywy/symy.html" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3652,1);">主治：肌无力</a></p>
+                    <p class="f122 hu pt3"><a rel="nofollow" target="_blank" href="http://kf.yywlsj.com/xywy/symy.html" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3652,1);">北总三院</a></p>
+                </div>
+            </div>
+		        <!-- 上海||肌无力  -->
+            <div class="Consul_one pbb10">
+                <div class="fll mrr5 Consul_pic">
+                    <a rel="nofollow" target="_blank" href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3739,2);"><img width="56" height="71" src="http://gg.xywy.com/newclubkp/wl/tzzctc/prl56_71.jpg"></a>
+                </div>
+                <div class="fll Consul_two pt22">
+                    <div class="clear gr wan">
+                        <p class="fll f144 he"><a rel="nofollow" target="_blank" href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3739,2);">潘仁龙</a></p>
+                        <span class="frr">
+                            <a rel="nofollow" target="_blank" href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3739,2);"><img width="60" height="20" src="http://gg.xywy.com/newclubkp/xt/images/lbg_03.gif"></a>
+                        </span>
+                    </div>
+                    <p class="f122 mbb5 zhuzhi"><a rel="nofollow" target="_blank" href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3739,2);">主治：肌无力</a></p>
+                    <p class="f122 hu pt3"><a rel="nofollow" target="_blank" href="http://swt.nxgjbyy.com/LR/Chatpre.aspx?id=PHH31671888&lng=cn&e=xywysn&r=xywysn&p=xywysn" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3739,2);">上海蓝十字脑科医院</a></p>
+                </div>
+            </div>
+		        <!-- 全国||肌无力  -->
+            <div class="Consul_one pbb10">
+                <div class="fll mrr5 Consul_pic">
+                    <a rel="nofollow" target="_blank" href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3678,3);"><img width="56" height="71" src="http://static.xa.xywy.com/20150319/c6d4421b86871b4c2676be6083cbc33151658.jpg"></a>
+                </div>
+                <div class="fll Consul_two pt22">
+                    <div class="clear gr wan">
+                        <p class="fll f144 he"><a rel="nofollow" target="_blank" href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3678,3);">冷贵生</a></p>
+                        <span class="frr">
+                            <a rel="nofollow" target="_blank" href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3678,3);"><img width="60" height="20" src="http://gg.xywy.com/newclubkp/xt/images/lbg_03.gif"></a>
+                        </span>
+                    </div>
+                    <p class="f122 mbb5 zhuzhi"><a rel="nofollow" target="_blank" href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3678,3);">主治：肌无力</a></p>
+                    <p class="f122 hu pt3"><a rel="nofollow" target="_blank" href="http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT40014905&lng=cn&e=xywy.com&r=xywy.com&p=xywy.com" onmousedown="recordVisitLinkads('club_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1',3678,3);">北京神经科诊疗中心</a></p>
+                </div>
+            </div>
+				<script>
+		new Image().src="http://stat-z.xywy.com/e.png?pagevisit=pvclub_v2_left_float&chkarea=%E4%B8%8A%E6%B5%B7&chkword=%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&chkwordid=58&fromtype=1&tx=&custom_id=3652_3739_3678&fromurl="+fromurl+"&clientID="+loginID+"&time=" + new Date().getTime()+"time";
+		</script>
+        </div>
+    </div>
+</div>
+<div class="smallpanel" id="smallpanel">
+    <div style="cursor:pointer;" class="tcpic" id="topS">
+        <img width="39" height="116" src="http://gg.xywy.com/newclubkp/xt/old/mfzx.gif">
+    </div>
+    <span style=" width:20px; height:20px; position:absolute; top:-7px; right:-9px; cursor:pointer; background:url(http://gg.xywy.com/newclubkp/xt/old/cha.gif) no-repeat;" id="closeS"></span>
+</div>
+</div>
+
+<!-- 公共底部 start-->
+<div class="pt15 club_Fooot"><script src="http://static.js.xywy.com/channel-public/js/public_bottom.js" type="text/javascript"></script></div>
+<!-- 公共底部 end-->
+<script type="text/javascript" src="http://pub1.wkimg.com/head/common_nav.js"></script>
+
+<div style="display:none;">
+<script  type="text/javascript">
+var imgxx = new Image;
+imgxx.src = "http://stat-y.xywy.com/z_test_pvuv.png?random"+Math.random();
+</script>
+</div>
+<script type="text/javascript" src="http://stat.xywy.com/visit.js"></script>
+<div style="display:none">
+<script src="http://w.cnzz.com/c.php?id=30040598" type="text/javascript" charset="gb2312"></script>
+</div>
+<script type="text/javascript" src="http://stat.xywy.com/a.js"></script>
+</body>
+</html>
